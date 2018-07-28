@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ZBehaviour : MonoBehaviour,IPlayerBehaviour,IPlayerAnimation,IPlayerSounds {
+public class ZeroBehaviour : MonoBehaviour,IPlayerAnimation,IPlayerBehaviour,IPlayerSounds {
     public void dash()
     {
         throw new System.NotImplementedException();
