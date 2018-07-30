@@ -1,7 +1,35 @@
 fileFormatVersion: 2
 guid: 50ebeab8f51d00d48bfd919edfacc049
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: rmx4__spiky_mk-ii_0
+    21300002: rmx4__spiky_mk-ii_1
+    21300004: rmx4__spiky_mk-ii_2
+    21300006: rmx4__spiky_mk-ii_3
+    21300008: rmx4__spiky_mk-ii_4
+    21300010: rmx4__spiky_mk-ii_5
+    21300012: rmx4__spiky_mk-ii_6
+    21300014: rmx4__spiky_mk-ii_7
+    21300016: rmx4__spiky_mk-ii_8
+    21300018: rmx4__spiky_mk-ii_9
+    21300020: rmx4__spiky_mk-ii_10
+    21300022: rmx4__spiky_mk-ii_11
+    21300024: rmx4__spiky_mk-ii_12
+    21300026: rmx4__spiky_mk-ii_13
+    21300028: rmx4__spiky_mk-ii_14
+    21300030: rmx4__spiky_mk-ii_15
+    21300032: rmx4__spiky_mk-ii_16
+    21300034: rmx4__spiky_mk-ii_17
+    21300036: rmx4__spiky_mk-ii_18
+    21300038: rmx4__spiky_mk-ii_19
+    21300040: rmx4__spiky_mk-ii_20
+    21300042: rmx4__spiky_mk-ii_21
+    21300044: rmx4__spiky_mk-ii_22
+    21300046: rmx4__spiky_mk-ii_23
+    21300048: rmx4__spiky_mk-ii_24
+    21300050: rmx4__spiky_mk-ii_25
+    21300052: rmx4__spiky_mk-ii_26
+    21300054: rmx4__spiky_mk-ii_27
   externalObjects: {}
   serializedVersion: 5
   mipmaps:
@@ -38,7 +66,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +95,602 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 149
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d2e73e2463b234a8b7f3c1da1dbbcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 150
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52dc7c61fbd933e4d9f6bb48e1ba7b26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_2
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 149
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9153c40c8650da84c8cec977433b4b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 148
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b22a891f5efe4a95372fd3973f48a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_4
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 149
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13496dadf057a8548945ced893126f58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_5
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 150
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774d6982adfc8cc42adabf3f4f5674ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7012eafa80eae49b02fd5f83a75ba7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 100
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5666525bd017dbf49bb7d8e41564ee26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_8
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 103
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37700491f651a9949b917985fb28f313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_9
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 105
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c815e39489623f499ba1d947a909b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79b80adff72078438dd63a8a322ad24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_11
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 107
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687ac97afd4721449c7e8c657ec30f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 107
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3734f21463eb94f9176d071e4a8042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 108
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70ba5050ddc1f24fb13d26eb2c3719d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 59
+        width: 51
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232ac412e2cf61f42a569b064ad2a1e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 59
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611dd4c14d932734ba7366f081a75aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_16
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 60
+        width: 50
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8d500997f2c32499b33e7c7913acb8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_17
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 59
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19664a498f757b546a22e1195ad8bcb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_18
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 59
+        width: 49
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d09039140b15cd408b8cb48543dd7f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_19
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 59
+        width: 49
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254ae3a8861cc1747b7563d068665733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79353a0246cf25b4d9033769bd8c8740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 27
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7841f6865863c6c42b91006fe691c01d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_22
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 26
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9dcaf606370041a23f7d9450027a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_23
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 26
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608f84f2b5f46c4da838988ecd64409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 30
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f81eb28fbf9674e9a0b9ba8ec6b4ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_25
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa57bc84a5c306c4784faa36fa90e980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_26
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d867697967608ad42a8a33a831318dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rmx4__spiky_mk-ii_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 30
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceb9d50492098440a73933ca1300903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
