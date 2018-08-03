@@ -1,9 +1,61 @@
 fileFormatVersion: 2
 guid: d19d13c5a70af0640aa39f5fba46f7b0
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: mmx_drlight_x456_0
+    21300002: mmx_drlight_x456_1
+    21300004: mmx_drlight_x456_2
+    21300006: mmx_drlight_x456_3
+    21300008: mmx_drlight_x456_4
+    21300010: mmx_drlight_x456_5
+    21300012: mmx_drlight_x456_6
+    21300014: mmx_drlight_x456_7
+    21300016: mmx_drlight_x456_8
+    21300018: mmx_drlight_x456_9
+    21300020: mmx_drlight_x456_10
+    21300022: mmx_drlight_x456_11
+    21300024: mmx_drlight_x456_12
+    21300026: mmx_drlight_x456_13
+    21300028: mmx_drlight_x456_14
+    21300030: mmx_drlight_x456_15
+    21300032: mmx_drlight_x456_16
+    21300034: mmx_drlight_x456_17
+    21300036: mmx_drlight_x456_18
+    21300038: mmx_drlight_x456_19
+    21300040: mmx_drlight_x456_20
+    21300042: mmx_drlight_x456_21
+    21300044: mmx_drlight_x456_22
+    21300046: mmx_drlight_x456_23
+    21300048: mmx_drlight_x456_24
+    21300050: mmx_drlight_x456_25
+    21300052: mmx_drlight_x456_26
+    21300054: mmx_drlight_x456_27
+    21300056: mmx_drlight_x456_28
+    21300058: mmx_drlight_x456_29
+    21300060: mmx_drlight_x456_30
+    21300062: mmx_drlight_x456_31
+    21300064: mmx_drlight_x456_32
+    21300066: mmx_drlight_x456_33
+    21300068: mmx_drlight_x456_34
+    21300070: mmx_drlight_x456_35
+    21300072: mmx_drlight_x456_36
+    21300074: mmx_drlight_x456_37
+    21300076: mmx_drlight_x456_38
+    21300078: mmx_drlight_x456_39
+    21300080: mmx_drlight_x456_40
+    21300082: mmx_drlight_x456_41
+    21300084: mmx_drlight_x456_42
+    21300086: mmx_drlight_x456_43
+    21300088: mmx_drlight_x456_44
+    21300090: mmx_drlight_x456_45
+    21300092: mmx_drlight_x456_46
+    21300094: mmx_drlight_x456_47
+    21300096: mmx_drlight_x456_48
+    21300098: mmx_drlight_x456_49
+    21300100: mmx_drlight_x456_50
+    21300102: mmx_drlight_x456_51
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +73,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +85,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +121,1071 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mmx_drlight_x456_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 522
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72872610be88617459a578a7b558ca57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 522
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88356be4cc3899544b71b4c7da10bd45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 522
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5166033ec1ec3e4abb50edd3e278c0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_3
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 522
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a253ce5b2473a2a4b979378edf8c32e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_4
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 381
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa771045d80b954aac435fe1f69b0d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_5
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 381
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082102e63d164f04facd1e8839dd5943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_6
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 381
+        width: 90
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0abd12953306f4abd71426a4b6197c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 430
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df30bc857a55ae1448695135528b0873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 430
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918c6414b840dd241bcba54d1127c6a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_9
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 430
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa68ff0811f568648ac250133ac0c05a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 407
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b53aa04eb5c28749994ad58fb66e0b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_11
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 407
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4790dbe3643a14d88525e4a3ba52ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_12
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 406
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21be3fc6281d64a4e8607afd94eb940d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_13
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 390
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1c4755809ad51468584b0c86cf9c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_14
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 389
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd0fb3afeca4284db3af4a4af1b6395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_15
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 390
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c884fd4bdfb1944bb7bd8bc64657cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 372
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba2695953fd794695ab7b5bd789340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_17
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab95fc4f6303cc1448ac54434b0d988d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_18
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 372
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6195e8117e488b445b5f2c8b365d8641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_19
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 372
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c0aa2a6eaf3b94ea33ee79159cccaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_20
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 372
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdecc872634289949a01241e2be9f77e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_21
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 372
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7531e3d098d17d14db773511c129164a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_22
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 406
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e38187cb933d6c4a8a12f99c3bbbc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 407
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc3c0bc1d931f2418a2ce50fe2362bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 407
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23adb7b275864b46af103e3a8b3f185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_25
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 390
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559b40d07749eb04799a856c135108ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_26
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 390
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b915be8c60a450048a5aa2d9eac90443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_27
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 390
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe11c12db8b3b24a823dab16831dd9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_28
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 317
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a835ba89610cd4e93a37e76cc908c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 296
+        width: 15
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f679df45299b51429329652c4025e8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_30
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 301
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b093a943361cf4eb2d9e82ee6b365c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_31
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 332
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff74a94617a7654098599b6914a553d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_32
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 348
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df5a19ed6199754bb7432332f651249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 222
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6f8a6b548236f45826856ec40559b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_34
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 182
+        width: 107
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502a032606950d149b66b2489729dc2f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 192
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93249e09e2ee5594e880f88baa53adac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_36
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 202
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc83bf9f65e0cbb46af986f433df04c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_37
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 226
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac2b525337e49f44be260955bcf1f2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 253
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af39b46a147bd64c932a3d1d425b146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 106
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4feda559f45314898fae766a62893f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 68
+        width: 107
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb97079cf08f7cf419900e64138672b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_41
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 75
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6b30fdfa1a69b4590dc75cf005370b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 86
+        width: 75
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703e3138792633f4f98de44ed5ce9ffa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 112
+        width: 50
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e62e8dfda54b54086856e77ab3c6ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_44
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 137
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a9f68733c32be4badd1c447e24d306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f9cc2c562c23c48b42053e2a5a01e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8371714ead29447aa25175ac6f7102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 7
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f242c79d816d47894b9b1dadfb36a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_48
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 4
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107bcb1a14705f54babd1e72f79e62b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 7
+        width: 37
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1322d6f667243540aef1e466478bfe9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_50
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 14
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c7daf6786ad3b4cb91195b811ab9d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx_drlight_x456_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 21
+        width: 39
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac9090e08ef33f4dab1c17ef809d32d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +1195,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

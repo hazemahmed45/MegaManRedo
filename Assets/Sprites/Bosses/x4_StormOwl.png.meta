@@ -1,9 +1,172 @@
 fileFormatVersion: 2
 guid: 6a76e114c56f2984d8a6ebf1e9bdb76e
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_StormOwl_0
+    21300002: x4_StormOwl_1
+    21300004: x4_StormOwl_2
+    21300006: x4_StormOwl_3
+    21300008: x4_StormOwl_4
+    21300010: x4_StormOwl_5
+    21300012: x4_StormOwl_6
+    21300014: x4_StormOwl_7
+    21300016: x4_StormOwl_8
+    21300018: x4_StormOwl_9
+    21300020: x4_StormOwl_10
+    21300022: x4_StormOwl_11
+    21300024: x4_StormOwl_12
+    21300026: x4_StormOwl_13
+    21300028: x4_StormOwl_14
+    21300030: x4_StormOwl_15
+    21300032: x4_StormOwl_16
+    21300034: x4_StormOwl_17
+    21300036: x4_StormOwl_18
+    21300038: x4_StormOwl_19
+    21300040: x4_StormOwl_20
+    21300042: x4_StormOwl_21
+    21300044: x4_StormOwl_22
+    21300046: x4_StormOwl_23
+    21300048: x4_StormOwl_24
+    21300050: x4_StormOwl_25
+    21300052: x4_StormOwl_26
+    21300054: x4_StormOwl_27
+    21300056: x4_StormOwl_28
+    21300058: x4_StormOwl_29
+    21300060: x4_StormOwl_30
+    21300062: x4_StormOwl_31
+    21300064: x4_StormOwl_32
+    21300066: x4_StormOwl_33
+    21300068: x4_StormOwl_34
+    21300070: x4_StormOwl_35
+    21300072: x4_StormOwl_36
+    21300074: x4_StormOwl_37
+    21300076: x4_StormOwl_38
+    21300078: x4_StormOwl_39
+    21300080: x4_StormOwl_40
+    21300082: x4_StormOwl_41
+    21300084: x4_StormOwl_42
+    21300086: x4_StormOwl_43
+    21300088: x4_StormOwl_44
+    21300090: x4_StormOwl_45
+    21300092: x4_StormOwl_46
+    21300094: x4_StormOwl_47
+    21300096: x4_StormOwl_48
+    21300098: x4_StormOwl_49
+    21300100: x4_StormOwl_50
+    21300102: x4_StormOwl_51
+    21300104: x4_StormOwl_52
+    21300106: x4_StormOwl_53
+    21300108: x4_StormOwl_54
+    21300110: x4_StormOwl_55
+    21300112: x4_StormOwl_56
+    21300114: x4_StormOwl_57
+    21300116: x4_StormOwl_58
+    21300118: x4_StormOwl_59
+    21300120: x4_StormOwl_60
+    21300122: x4_StormOwl_61
+    21300124: x4_StormOwl_62
+    21300126: x4_StormOwl_63
+    21300128: x4_StormOwl_64
+    21300130: x4_StormOwl_65
+    21300132: x4_StormOwl_66
+    21300134: x4_StormOwl_67
+    21300136: x4_StormOwl_68
+    21300138: x4_StormOwl_69
+    21300140: x4_StormOwl_70
+    21300142: x4_StormOwl_71
+    21300144: x4_StormOwl_72
+    21300146: x4_StormOwl_73
+    21300148: x4_StormOwl_74
+    21300150: x4_StormOwl_75
+    21300152: x4_StormOwl_76
+    21300154: x4_StormOwl_77
+    21300156: x4_StormOwl_78
+    21300158: x4_StormOwl_79
+    21300160: x4_StormOwl_80
+    21300162: x4_StormOwl_81
+    21300164: x4_StormOwl_82
+    21300166: x4_StormOwl_83
+    21300168: x4_StormOwl_84
+    21300170: x4_StormOwl_85
+    21300172: x4_StormOwl_86
+    21300174: x4_StormOwl_87
+    21300176: x4_StormOwl_88
+    21300178: x4_StormOwl_89
+    21300180: x4_StormOwl_90
+    21300182: x4_StormOwl_91
+    21300184: x4_StormOwl_92
+    21300186: x4_StormOwl_93
+    21300188: x4_StormOwl_94
+    21300190: x4_StormOwl_95
+    21300192: x4_StormOwl_96
+    21300194: x4_StormOwl_97
+    21300196: x4_StormOwl_98
+    21300198: x4_StormOwl_99
+    21300200: x4_StormOwl_100
+    21300202: x4_StormOwl_101
+    21300204: x4_StormOwl_102
+    21300206: x4_StormOwl_103
+    21300208: x4_StormOwl_104
+    21300210: x4_StormOwl_105
+    21300212: x4_StormOwl_106
+    21300214: x4_StormOwl_107
+    21300216: x4_StormOwl_108
+    21300218: x4_StormOwl_109
+    21300220: x4_StormOwl_110
+    21300222: x4_StormOwl_111
+    21300224: x4_StormOwl_112
+    21300226: x4_StormOwl_113
+    21300228: x4_StormOwl_114
+    21300230: x4_StormOwl_115
+    21300232: x4_StormOwl_116
+    21300234: x4_StormOwl_117
+    21300236: x4_StormOwl_118
+    21300238: x4_StormOwl_119
+    21300240: x4_StormOwl_120
+    21300242: x4_StormOwl_121
+    21300244: x4_StormOwl_122
+    21300246: x4_StormOwl_123
+    21300248: x4_StormOwl_124
+    21300250: x4_StormOwl_125
+    21300252: x4_StormOwl_126
+    21300254: x4_StormOwl_127
+    21300256: x4_StormOwl_128
+    21300258: x4_StormOwl_129
+    21300260: x4_StormOwl_130
+    21300262: x4_StormOwl_131
+    21300264: x4_StormOwl_132
+    21300266: x4_StormOwl_133
+    21300268: x4_StormOwl_134
+    21300270: x4_StormOwl_135
+    21300272: x4_StormOwl_136
+    21300274: x4_StormOwl_137
+    21300276: x4_StormOwl_138
+    21300278: x4_StormOwl_139
+    21300280: x4_StormOwl_140
+    21300282: x4_StormOwl_141
+    21300284: x4_StormOwl_142
+    21300286: x4_StormOwl_143
+    21300288: x4_StormOwl_144
+    21300290: x4_StormOwl_145
+    21300292: x4_StormOwl_146
+    21300294: x4_StormOwl_147
+    21300296: x4_StormOwl_148
+    21300298: x4_StormOwl_149
+    21300300: x4_StormOwl_150
+    21300302: x4_StormOwl_151
+    21300304: x4_StormOwl_152
+    21300306: x4_StormOwl_153
+    21300308: x4_StormOwl_154
+    21300310: x4_StormOwl_155
+    21300312: x4_StormOwl_156
+    21300314: x4_StormOwl_157
+    21300316: x4_StormOwl_158
+    21300318: x4_StormOwl_159
+    21300320: x4_StormOwl_160
+    21300322: x4_StormOwl_161
+    21300324: x4_StormOwl_162
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +184,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +196,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +232,3291 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_StormOwl_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 779
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b5062b8088063498287a56fb3983aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 779
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a5fa3987a338d4384006de0beb2954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 814
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774a66b6181afb240abccb04cc25e6fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 805
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d8a29da039aa41acbe7e54ebac916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_4
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 775
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef8f695faeaaa4fb3aa1d4d1ebb2c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_5
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 775
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501201fa61ccf5a4fa95cb4bb2e10763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 819
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e0bfa244c770a4aad66befdf818b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_7
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 775
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd00f0cd5f7b00d4daf7e3a4039fd87a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 818
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b57963fb7ba24293ca6a4eb73dc9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_9
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 771
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c8e878a8ef2ad4e8bf99778e622eaa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_10
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 798
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c86f7b157b1194f91332b783c12232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 782
+        width: 34
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a390f573da9c8c48b526dfefaab1cd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_12
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 775
+        width: 72
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c45b2ec12386c34585cbb167b9d6fad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_13
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 788
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4209a82c31a32041890b6f68acf8d48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_14
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 791
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b400dd4d8db94c8321a5aebdd241e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_15
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 775
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6456fe29809eccf4b96f61d4ac56b1f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_16
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 772
+        width: 71
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca45d4e603d5ec49b7288ffbbfe8025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_17
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 814
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574c3166b27c1348bb2e9e238811ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_18
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 808
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc0ec61404bee84db01db4b37911b28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_19
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 773
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec524f0f9e7c47d4289547174594e1a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 775
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7153bf2939a333c4aab9ddcdf1dcd512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_21
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 802
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614c92bc89fcfd47b2e7e612005f7ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_22
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 814
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5592f21b8b3dc4ba70cfc0863cd52a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_23
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 781
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbaa1fd6c3856f4bb4d9ed64777344d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_24
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 812
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ec84075ce809a46ae5437dd02a9825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 779
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b6133876a46f14c83a954c482c14fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_26
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 812
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebddc03c9e20a46bd759e018fc282a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_27
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 783
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6340f3799fc11479fce75b30d65432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_28
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 783
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0926f579a363984f977b6a74bfbb632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_29
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 811
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c2b55c2e8ce2249bb439da2357c0ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 704
+        width: 55
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdff762555bce934199aa83e7c66907f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_31
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 703
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586845a579486224fbb1f45bd6525ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_32
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 703
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dcef21553073f4daab0a80944c2aa8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_33
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 698
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02a95a3f3481984d8a45ae137cb8931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_34
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 697
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d3b79c900a0e84b8aa4b63e388506d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 706
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d02ce1fbede0e45afdad9bd778b8b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_36
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 705
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d344859679587a4bb2ef60658bb3af9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_37
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 704
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932cf672f4cb9a44ca6278fb4362b0f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_38
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 697
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c9e5c2360a95849a514659b9af4543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_39
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 611
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ccc0fcf411d1c4983164020796d5dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 650
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6114dfbb9aed2c34598f635c6e3fa5a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_41
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 639
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa27168ffaa3d3d49ab3622ebf2761c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 656
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2eaca3d91285a40b1df64c33bb706a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 614
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2538c9901da506d4eae0472dcb66f4ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_44
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 607
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ade1370f395a2428433eb185acddea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_45
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 614
+        width: 77
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4bccf09f3da6447a0468a2566542dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_46
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 635
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6deeb3e12c8b44196538c97ce3e28f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_47
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 615
+        width: 74
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e9c7cc507228e42ae21ccde458f9e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_48
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 647
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a39cf8af6c31340a513304644dac38
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_49
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 676
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f945fc1d63dcb24bb423615d9d689e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_50
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 639
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a5cb577942c334ebe9f5d39379887d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_51
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 613
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d584ed8d2cf552c48a49378ca8171a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_52
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 607
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea93ee12b2056e458d19300cd2de80f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_53
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 614
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a02cab82e95a6419834e3e79b1a263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_54
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 646
+        width: 40
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1781802e134f4ef438f27aa98004a6fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_55
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 610
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6dd02f718f57da4fbbd40b2a7176875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 535
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69259c9738d9809458556799c8e39b09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_57
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 535
+        width: 66
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dcc60824c79c1244803c2c0076ea4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 544
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007650ac7688c6441a60587a6d986acf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_59
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 551
+        width: 55
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d9f1e6fa07864192e9c09d64366c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_60
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 547
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f449ac0cc4d3a479d39bd88e0b4437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 469
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138deb80e82eac5468b2229c11a516b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 481
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2d4eebcfd7794b9038169a9f619f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_63
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 469
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da321f5102333f14b92b221e897e8bba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_64
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 494
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8ca074a6bee5949991d9eda8fde3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 461
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c67f4e687acbd47aea45bff69f0fee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_66
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 462
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e199d2dac3a9914694485ebe7fc498e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_67
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 467
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0550d81eb1ae4674ebf71bf59b3f8f40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_68
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 495
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293e5457fd51aeb498da6239592d22f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_69
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 458
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37bbf668647677946aed1d299581b2ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_70
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 500
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6efba933aa7493418469af64b718bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_71
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 472
+        width: 62
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51795d0b794a51749852c77aad276ba1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_72
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 397
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5eb9bb6f9bb3c419a75216ad949f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_73
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 390
+        width: 63
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb26679dea5ad444e97b07ab19043392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_74
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 390
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526e526fa77a6b04996019b84d9b2271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_75
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 393
+        width: 62
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b652348c4b3eee3429100ca9ed2990e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_76
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 394
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bbaf168d156dd3488868bea40065bd6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 373
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170c309a147f53499f10b45da99504f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_78
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 365
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530bef85902a0c74e87125e63981d9ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_79
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 364
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c2d5d29a071b942a9e597fe162aeb3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_80
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 373
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbff6d1b9da1b4a459cb7204313ca07f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_81
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 365
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3a47ef5d2aa234b8843028e9183886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_82
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 363
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93924cad5916564b85f398b623402aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_83
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 373
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0f70759d27db44ba49dc7a47256398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_84
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 365
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe17b9873710c294298294b18e0874ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_85
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 364
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59aeea00e4ea3e348a18daa994bb4be3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_86
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 372
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685a842ddb121084d8a3b89331be54d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_87
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 364
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f7463cb9eac8e4bbf3bd09e948ab0c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_88
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 363
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c0ebd1ae7a3e3d4cafc79d0020592e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_89
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 372
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c25ea278c9b814b80181e195aed13a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_90
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 365
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06eb7c1e31bc1744b8bd7fa06711e262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_91
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 364
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c9fcb099af2b54f8f88ef5d97dc707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_92
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 325
+        width: 57
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4aa3f6926707cb409904b8d5137c30b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_93
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 238
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f2f508af85a14691c5f0d118100e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_94
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 239
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f3da0254239315418a0b00b85e2e118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_95
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 231
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52c7994e3cb51d4dbedbc897852639f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_96
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 234
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7b066a23ecc1249b181dc085285770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_97
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fa6bbe0e08bc44897067bb751b7976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_98
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 243
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc52c917342b7a4784b934ee7d517ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_99
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 231
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8576b549ec15448b4a9b5fb495d87f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_100
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 227
+        width: 63
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec42a5b80cbf60145a7db5bd2603af24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_101
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 227
+        width: 51
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d132da23a9af84ab3b2ae773a52808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_102
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 223
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87d0b0c2735ab4cb0e8cee55f46d63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_103
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 240
+        width: 29
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dff1107ab3fd14496b65fcd53dd36c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_104
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 233
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9935f7130c873c4088e0fcefc09a83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_105
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 232
+        width: 82
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf0255c42f5ac45a37beb20f4d98ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_106
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 233
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a71e38f6aeb36984ebca64ace6291e10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_107
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 236
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2684efb61debaaa478ac5beb8c65a3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_108
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 184
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede2ee81cd101fa4d9ebf4240265aab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_109
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 187
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f38a9697dd18df41a58991a1fd6f039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_110
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 187
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2e29e311cbfec47b485870677921ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_111
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 175
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae1eef7cfa67264daa05a29cff5833d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_112
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 174
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f426092bfc9ee7744a066847d78dba03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_113
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 187
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f47f04733949c2478841c1d3d82e717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_114
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 179
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2812dbee612f9b142b7a4ebfa52fb68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_115
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 167
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4a47271b1ed004ab28921d2953e6be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_116
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 192
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5301e92efeff99b4d93f646de6fb4f1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_117
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 187
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2b6dec12626f5409f1ff85a9818a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 187
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4be850c83af6d54283d684eb5eae0bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_119
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 127
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ddf89a47d913a44ab35b5dead67182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_120
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 113
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb8b018fd004d8478245323ff8226d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 127
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed4d17fe2a1161418b3f5f0a41cf733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_122
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 115
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049b2464ff2ab1e4e8fcb7d9b5f6bd85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_123
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 127
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f260d0cecea884cba69845e5e74801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_124
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 113
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b3556558f66174495c0ded3000ae28
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_125
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 127
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2015b5d2389e29c4d86257de224d3e92
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_126
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6bc901f3b364458fae80430b9e457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_127
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 127
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f19f48a14ba554f88af1a77e8383ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_128
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 127
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffc29f3cfb3e33439cee7a1ed32f99a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_129
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 127
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949042b259631e5419189fcf1bdcf356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_130
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 119
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187fd508fe8a8cc4ba21b2b7feae2c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_131
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 120
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b789d91cbede447aae29fb6dceda11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_132
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 119
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3d47b254221584ea76c3e49f82bdce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_133
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 120
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400e8a2033bfefb4c850892e1d720826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_134
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 127
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ec2070fdd76d34983585f89afca7fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_135
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 127
+        width: 12
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad902801d6668964888d9b8e5a3c46a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_136
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 111
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff957c0dca3ff8e45866fc0d553da5e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_137
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 127
+        width: 13
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ab0f554be441147947f91e963d2dc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_138
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 117
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae11f5154433a5a419e640047c2f17f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_139
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 115
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f92cd5ae088f674e839da4311fd9c96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_140
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 119
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224d044557018ab46936f725fa750edd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_141
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 78
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53be607d1e995c04093049bbbcae134e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_142
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 79
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ef86eea8bedb46a1df157c3da389e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_143
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 80
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e07bb2615b557742a4975bacbf2e5cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_144
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 79
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc949582dde244ca5f4d5eac6d6005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_145
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 79
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23467281ff2bd04cbbdc81b8e7e8fb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_146
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 81
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f196159a71d6db24c9a4a23118a16344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_147
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 46
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae8145867ca35549aae8b8d5a401d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_148
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 46
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be966f2b58f3b4d4690cfdcd35195430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_149
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 43
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a54435952da0438adb2231f121cb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_150
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 39
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85585f1a81459e644961f5a69a205f99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_151
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 39
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a95f2e822cd0e418a7bc049c36259a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_152
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 40
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37135532dffe94cb0a86180a33a422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_153
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10720e7112e3dd74c9046b7e7a8bffe5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_154
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d02d4840513dc34795859017a297b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_155
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 40
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372ec81fd3bf9114f909e58541927159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_156
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 40
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d8a72fd3c4e7c4a8912433217bf4a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 40
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a0adcb5a226a489cf5ab4411ee7ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_158
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 40
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c6c63e45d98814ab8adea65cb0bba4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_159
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 40
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95de543242e676c45a6b1784103766b2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_160
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 40
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11ee53f0702dba4296ffcabb87b60b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_161
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 40
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6176ad328c3dab340ad15b2d62e66895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_StormOwl_162
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 40
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f57c44bb0e41ab44a701c492c31dcf5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +3526,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

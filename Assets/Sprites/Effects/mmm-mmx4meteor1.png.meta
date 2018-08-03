@@ -1,9 +1,27 @@
 fileFormatVersion: 2
 guid: 3fc9a4db77377364aa255c39a55cbd7e
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: mmm-mmx4meteor1_0
+    21300002: mmm-mmx4meteor1_1
+    21300004: mmm-mmx4meteor1_2
+    21300006: mmm-mmx4meteor1_3
+    21300008: mmm-mmx4meteor1_4
+    21300010: mmm-mmx4meteor1_5
+    21300012: mmm-mmx4meteor1_6
+    21300014: mmm-mmx4meteor1_7
+    21300016: mmm-mmx4meteor1_8
+    21300018: mmm-mmx4meteor1_9
+    21300020: mmm-mmx4meteor1_10
+    21300022: mmm-mmx4meteor1_11
+    21300024: mmm-mmx4meteor1_12
+    21300026: mmm-mmx4meteor1_13
+    21300028: mmm-mmx4meteor1_14
+    21300030: mmm-mmx4meteor1_15
+    21300032: mmm-mmx4meteor1_16
+    21300034: mmm-mmx4meteor1_17
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +39,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +51,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +87,391 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 118
+        width: 78
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d670546c54ebf48a4ea7f0ec3b6abe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 119
+        width: 80
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff46506f4a9b4c43855fe498b9956d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 119
+        width: 78
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ced013a492180439a7cc38035e31ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_3
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 119
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf42f9270dc1a41a4478f3b67b685e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_4
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 119
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4023393cef7f16640908a556be8bb954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_5
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 119
+        width: 71
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dd0d254f00aac4a97a0df829a7602f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_6
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 119
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d6b194ab1641408bf03cc1dedf3ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 119
+        width: 74
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd69df196b78094dab0d1b5444c311a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_8
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 119
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba150a6391dea1438452d7d465d5c73
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_9
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 46
+        width: 78
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91d145d179b012488c8af2999199611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_10
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 31
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf719dfb0d1a054caf2394c522d6c61
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 21
+        width: 78
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63acb00588f1fd4baacf9e0edd50f96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_12
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 22
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a44b660ee3093e4a8d4ce134733d6e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_13
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 30
+        width: 75
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b400415423c813c429da60285bb595b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_14
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 7
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee61b12b49fb8494aadcba54ff3e19d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_15
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 45
+        width: 78
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad284fd98752f947848f23385ddcb66
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_16
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 23
+        width: 74
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087e5c7cb6bdc24d82ee093e3670a9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmm-mmx4meteor1_17
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 31
+        width: 78
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3079d99d4acb1514ca0b31b8ec916184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +481,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,9 +1,136 @@
 fileFormatVersion: 2
 guid: e0842c04b0a2c9a4a9ae93943bc9a9c6
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_CyberPeacock_0
+    21300002: x4_CyberPeacock_1
+    21300004: x4_CyberPeacock_2
+    21300006: x4_CyberPeacock_3
+    21300008: x4_CyberPeacock_4
+    21300010: x4_CyberPeacock_5
+    21300012: x4_CyberPeacock_6
+    21300014: x4_CyberPeacock_7
+    21300016: x4_CyberPeacock_8
+    21300018: x4_CyberPeacock_9
+    21300020: x4_CyberPeacock_10
+    21300022: x4_CyberPeacock_11
+    21300024: x4_CyberPeacock_12
+    21300026: x4_CyberPeacock_13
+    21300028: x4_CyberPeacock_14
+    21300030: x4_CyberPeacock_15
+    21300032: x4_CyberPeacock_16
+    21300034: x4_CyberPeacock_17
+    21300036: x4_CyberPeacock_18
+    21300038: x4_CyberPeacock_19
+    21300040: x4_CyberPeacock_20
+    21300042: x4_CyberPeacock_21
+    21300044: x4_CyberPeacock_22
+    21300046: x4_CyberPeacock_23
+    21300048: x4_CyberPeacock_24
+    21300050: x4_CyberPeacock_25
+    21300052: x4_CyberPeacock_26
+    21300054: x4_CyberPeacock_27
+    21300056: x4_CyberPeacock_28
+    21300058: x4_CyberPeacock_29
+    21300060: x4_CyberPeacock_30
+    21300062: x4_CyberPeacock_31
+    21300064: x4_CyberPeacock_32
+    21300066: x4_CyberPeacock_33
+    21300068: x4_CyberPeacock_34
+    21300070: x4_CyberPeacock_35
+    21300072: x4_CyberPeacock_36
+    21300074: x4_CyberPeacock_37
+    21300076: x4_CyberPeacock_38
+    21300078: x4_CyberPeacock_39
+    21300080: x4_CyberPeacock_40
+    21300082: x4_CyberPeacock_41
+    21300084: x4_CyberPeacock_42
+    21300086: x4_CyberPeacock_43
+    21300088: x4_CyberPeacock_44
+    21300090: x4_CyberPeacock_45
+    21300092: x4_CyberPeacock_46
+    21300094: x4_CyberPeacock_47
+    21300096: x4_CyberPeacock_48
+    21300098: x4_CyberPeacock_49
+    21300100: x4_CyberPeacock_50
+    21300102: x4_CyberPeacock_51
+    21300104: x4_CyberPeacock_52
+    21300106: x4_CyberPeacock_53
+    21300108: x4_CyberPeacock_54
+    21300110: x4_CyberPeacock_55
+    21300112: x4_CyberPeacock_56
+    21300114: x4_CyberPeacock_57
+    21300116: x4_CyberPeacock_58
+    21300118: x4_CyberPeacock_59
+    21300120: x4_CyberPeacock_60
+    21300122: x4_CyberPeacock_61
+    21300124: x4_CyberPeacock_62
+    21300126: x4_CyberPeacock_63
+    21300128: x4_CyberPeacock_64
+    21300130: x4_CyberPeacock_65
+    21300132: x4_CyberPeacock_66
+    21300134: x4_CyberPeacock_67
+    21300136: x4_CyberPeacock_68
+    21300138: x4_CyberPeacock_69
+    21300140: x4_CyberPeacock_70
+    21300142: x4_CyberPeacock_71
+    21300144: x4_CyberPeacock_72
+    21300146: x4_CyberPeacock_73
+    21300148: x4_CyberPeacock_74
+    21300150: x4_CyberPeacock_75
+    21300152: x4_CyberPeacock_76
+    21300154: x4_CyberPeacock_77
+    21300156: x4_CyberPeacock_78
+    21300158: x4_CyberPeacock_79
+    21300160: x4_CyberPeacock_80
+    21300162: x4_CyberPeacock_81
+    21300164: x4_CyberPeacock_82
+    21300166: x4_CyberPeacock_83
+    21300168: x4_CyberPeacock_84
+    21300170: x4_CyberPeacock_85
+    21300172: x4_CyberPeacock_86
+    21300174: x4_CyberPeacock_87
+    21300176: x4_CyberPeacock_88
+    21300178: x4_CyberPeacock_89
+    21300180: x4_CyberPeacock_90
+    21300182: x4_CyberPeacock_91
+    21300184: x4_CyberPeacock_92
+    21300186: x4_CyberPeacock_93
+    21300188: x4_CyberPeacock_94
+    21300190: x4_CyberPeacock_95
+    21300192: x4_CyberPeacock_96
+    21300194: x4_CyberPeacock_97
+    21300196: x4_CyberPeacock_98
+    21300198: x4_CyberPeacock_99
+    21300200: x4_CyberPeacock_100
+    21300202: x4_CyberPeacock_101
+    21300204: x4_CyberPeacock_102
+    21300206: x4_CyberPeacock_103
+    21300208: x4_CyberPeacock_104
+    21300210: x4_CyberPeacock_105
+    21300212: x4_CyberPeacock_106
+    21300214: x4_CyberPeacock_107
+    21300216: x4_CyberPeacock_108
+    21300218: x4_CyberPeacock_109
+    21300220: x4_CyberPeacock_110
+    21300222: x4_CyberPeacock_111
+    21300224: x4_CyberPeacock_112
+    21300226: x4_CyberPeacock_113
+    21300228: x4_CyberPeacock_114
+    21300230: x4_CyberPeacock_115
+    21300232: x4_CyberPeacock_116
+    21300234: x4_CyberPeacock_117
+    21300236: x4_CyberPeacock_118
+    21300238: x4_CyberPeacock_119
+    21300240: x4_CyberPeacock_120
+    21300242: x4_CyberPeacock_121
+    21300244: x4_CyberPeacock_122
+    21300246: x4_CyberPeacock_123
+    21300248: x4_CyberPeacock_124
+    21300250: x4_CyberPeacock_125
+    21300252: x4_CyberPeacock_126
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +148,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,7 +160,7 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -102,7 +231,2547 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_CyberPeacock_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1444
+        width: 78
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f067c344f5d5d4c92d4ede7cfa8ea2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_1
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1444
+        width: 80
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19b805251e6f5b4b81d16aba4514408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1445
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c3a63f5593e4e4d97239f236651138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_3
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1444
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef65ba14b6834a46b9c55445a216f3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_4
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1445
+        width: 79
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693f1a2ba6131264aa38097f34ab7b4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_5
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1444
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b28af1c163f134495c2ed8598bf556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1444
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107601fb0553e664a949c0db400da1c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 1444
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110a281942123b244a3b1993ebc023e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1353
+        width: 81
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ed223566f444e4bb9fb53b550524fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_9
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1353
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34aa5380e9284e941beb7a9f57cfee77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_10
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1353
+        width: 78
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5fd86a9d3cc71438bc87c0cf1c4939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1353
+        width: 77
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536111e7f2ded5c41be8f7118007fc35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_12
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1353
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119d68b041ee784d88df8281ab4e596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1354
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e5cb536fee1c4cb1eb14556f3302b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_14
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1354
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b824717c3350b049bb99a9f926d0130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_15
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1353
+        width: 79
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c77967ec5e96b4bb89c3ad9d4cc4a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_16
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1244
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6a73ac0d25cd945ab82938596b5345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1243
+        width: 79
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab2d414ce2ed574bb17307aba09734e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1242
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a3ea363ad1977408bfe2bb01b39b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_19
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1243
+        width: 77
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61b38118fabad1488b214cbe42cce9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_20
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1141
+        width: 78
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f595f75e3cb8193428627ab7003829df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_21
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1142
+        width: 49
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cf01f20b88634469377d369de81569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_22
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1149
+        width: 44
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281523cc4be8ed4498440fda062925ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_23
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1144
+        width: 40
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed715e9c3e15145459e3ed3b099dca7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1143
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e48133034867074bb2bca7a7ae66c5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_25
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1134
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b65df10bcd050e4d9782c06db0a0c26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_26
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1134
+        width: 46
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f7ad062de2f7de42b848b3cc664271d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_27
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1134
+        width: 45
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9dbada256c60a46a57e5da36b5a1fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_28
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1134
+        width: 45
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adafcbb0a2e46d2418909b9394af7a8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_29
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1032
+        width: 64
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf49dacd3b1af4aaca0c2ee2e533d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_30
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1032
+        width: 59
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f555dcf0a67caa8429c4a20bb94933ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_31
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1029
+        width: 51
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d751d30b13b5d4697b446d191be382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_32
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1026
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9539f11be40ada54d8f314f3776db03c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1027
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1eae7c0478960444ac25119b55829f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_34
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 920
+        width: 56
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0a03cd24c6cb4a8eb96b0f427afcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_35
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 919
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92bd3d31120aab64fa35580bbb392e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_36
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 924
+        width: 47
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4fa87796bea3543ae15efa6b7ed05b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_37
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 919
+        width: 35
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b3d26c1bfadc254a85b2a6a81925e77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_38
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 823
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10b65e87abaf784bb1e2271031884be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_39
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 856
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3bd72d5cd85f43b89c4c76fcfcafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_40
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 862
+        width: 57
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482bc26ce5ffcba438ed804dfcbe1e8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_41
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 870
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd1c10f5cebf149a4a5f2f8ea97099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_42
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 870
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306d61f2b49707e4e9176af10ba3b8f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_43
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 870
+        width: 64
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e938c77ad83ca854a8ff27f47d8c7332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_44
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 869
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f0b10a0c5660c42b109910a9ae59fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_45
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 781
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1bc684f4e8d544b9a70c342082e160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_46
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 782
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d387d67ee09513418f88c80d1995a01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 753
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495088894863b5d48aeeee751feaea6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_48
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 753
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209f37c522cd4b34ba2e50e0b196d83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_49
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 718
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c755a5b06b68db546a6bfa04f5b82244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_50
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 719
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fc96468f548514bb45252eee24d9c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_51
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 719
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a98ac7fba28a4479c24398cb6478c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_52
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 718
+        width: 64
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13705f4d441594e4c964c3d1c7207eed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_53
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 718
+        width: 62
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1bd38978d97942a12525e6451315b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_54
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 719
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf6652a2822d94dafd5d2de94d409c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_55
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 643
+        width: 48
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d559428c2483d443a523271a250c83f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_56
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 649
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee9f6b31e5f2e0469023280a8ed7d49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_57
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 641
+        width: 148
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e46f50d816ce81c4b9d3e776746e8ab5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_58
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 649
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760c8b3415a484419268be11ecedf9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_59
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 649
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480a5464547a28439280814ba23ff6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_60
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 609
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddbcb77c124f204db1fa6c40a82b27a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_61
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 639
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c7266a67938a1479c8104094a9e2d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_62
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 645
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d57b9a74978f48979306c3f42e456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_63
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 644
+        width: 13
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73bb68561a1024cb21876fca94623b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_64
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 650
+        width: 20
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df74ea47e8597045a0aa56e86dfcd1f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_65
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 647
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8ae3c66445a38479fc779891455a62
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 515
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb68efeaca244f243bfdb2d4f0cf7509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_67
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 519
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592795395436ec849919d6c0efda5c4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_68
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 521
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c8f1c06a5c4ed4893d87aa664e3b7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_69
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 521
+        width: 92
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae0271e21a5fc94e8e45fdd95d046ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_70
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 396
+        width: 113
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79bf7dd812fa264f82411fa98edc59a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 396
+        width: 111
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aa34d31b0c5fe4c98a05a7fbd30af5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_72
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 396
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14624b478249d64c8f3a78249d1e129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_73
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 396
+        width: 92
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0713dc59907e55043ba0dc5f3d8c106f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_74
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 397
+        width: 94
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be207b1b6b0203c4e831c70f7e4ecabc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_75
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 322
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75e4ca900e2d5649a0f6546cf1693fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_76
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 323
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817bcbe1fff741842817509cfba38244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_77
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 323
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70781142261684d48987aeb86033528f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_78
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 322
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b4b57963ecbe145a70772d7e377d2b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 323
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c3049d6c8855145928e5d457501e94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_80
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 322
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d115aec6fdc784aac0a938002e2bc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_81
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 255
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c9a04cbe5b9a24f8377a368b1b7636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_82
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 254
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5048d20e147945b4b95c375c74a1d9d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 255
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c5ab19f17447b478baf6efe0ce533b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_84
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 254
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1af8e198fabb241960e7ef30fb3de6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_85
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 254
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e986833630b23f94fbb7b54aae534e08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_86
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 254
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aa03725e075f94b86c6ffe8f958dbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_87
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 254
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb0b8fd1a5d554a8829cc184b11d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_88
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 223
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b96b408d63f8944b01b01941ba247e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_89
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 220
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732fc2473a99536468d2b72abebae8d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_90
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 215
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09686cd423e98ba4eb3419a792323ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_91
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 217
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191440a58d3e5924e8fe60c041c3dd85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_92
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 216
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c49cf2449c78046a7c75824c7e397a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_93
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 216
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046674c3e2cbb1143a234fd1419fae93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_94
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 175
+        width: 40
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5faefeb372e124fbcb6d9bc5f0135f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_95
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 175
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96164edb7d827c145820c7d8b1b7be7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_96
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 176
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3ceaf74aca1494ebb6182a89450406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_97
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 175
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d56d38ec308aae48b9f93763e0914a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_98
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 176
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866f03e32cacab40a2d477da267e515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_99
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 176
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156a6c6fb3cb8b746840aa2b9d96706e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_100
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 185
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de1444f9ef03244a0f513daba038dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_101
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 188
+        width: 40
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dbdffdd720579348ad2c6e9506f1db4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_102
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 190
+        width: 39
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75cd31ab0ba71ea47b2cb6e821df966b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_103
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 189
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1c0977b66f5346a2b291aa0d3ee57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_104
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 187
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c6ace0fd653664bab0483ce862c648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_105
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 183
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ed71d5ef4acb949a1ce1b5ce47a0f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_106
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 184
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9468ccb7321d424478e8bf55fcb88bfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 186
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1888b732b02cf2f468932030813fb879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_108
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 95
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b089f3bc49e4e47a66ea391df1daa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_109
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 94
+        width: 41
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e9b2033f7ce034c9ac2289d7706d03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_110
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 94
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e9f79b925a099459993ed20a6d76b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_111
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 106
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350cc72fe40eec14897608f2c32ddafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_112
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 110
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850ffeab2677c7049bac1d0503c4d511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_113
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 107
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd32d09f73dd1b74395c38a60bf999c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_114
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 110
+        width: 22
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d2347d73b3ac940b35d5e6c04924bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_115
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 108
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b3008800f738f44a356f50732e71cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_116
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 106
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3a552d06446c44a37cd154a86da31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_117
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 111
+        width: 43
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036f80e61dd6dbf49bbae4966d6adf6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_118
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 107
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b042f95d907be3f40bd437bae69492fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_119
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 110
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63dd3ffdb4540724a9179a8e4183f7b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_120
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 109
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61496d544f6eb784bae1851282d20101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_121
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 62
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f148f23236dad5b43a30e1cd53e217a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_122
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 62
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d07f9e20fcf2845bc9397994c209ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_123
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 61
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f44b0ffe4a6044fa2dac4105e59670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_124
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 60
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221e195d1679de0468f4cfeb35684b40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_125
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 63
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47c1635d197e12b4baf298c429ca8ef8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_CyberPeacock_126
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 62
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0566283fa80aeb4e87387340aeb9abc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -112,6 +2781,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

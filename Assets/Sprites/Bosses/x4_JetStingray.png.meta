@@ -1,9 +1,198 @@
 fileFormatVersion: 2
 guid: 23047562f82a6c442ab9ea15a98c8ad1
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_JetStingray_0
+    21300002: x4_JetStingray_1
+    21300004: x4_JetStingray_2
+    21300006: x4_JetStingray_3
+    21300008: x4_JetStingray_4
+    21300010: x4_JetStingray_5
+    21300012: x4_JetStingray_6
+    21300014: x4_JetStingray_7
+    21300016: x4_JetStingray_8
+    21300018: x4_JetStingray_9
+    21300020: x4_JetStingray_10
+    21300022: x4_JetStingray_11
+    21300024: x4_JetStingray_12
+    21300026: x4_JetStingray_13
+    21300028: x4_JetStingray_14
+    21300030: x4_JetStingray_15
+    21300032: x4_JetStingray_16
+    21300034: x4_JetStingray_17
+    21300036: x4_JetStingray_18
+    21300038: x4_JetStingray_19
+    21300040: x4_JetStingray_20
+    21300042: x4_JetStingray_21
+    21300044: x4_JetStingray_22
+    21300046: x4_JetStingray_23
+    21300048: x4_JetStingray_24
+    21300050: x4_JetStingray_25
+    21300052: x4_JetStingray_26
+    21300054: x4_JetStingray_27
+    21300056: x4_JetStingray_28
+    21300058: x4_JetStingray_29
+    21300060: x4_JetStingray_30
+    21300062: x4_JetStingray_31
+    21300064: x4_JetStingray_32
+    21300066: x4_JetStingray_33
+    21300068: x4_JetStingray_34
+    21300070: x4_JetStingray_35
+    21300072: x4_JetStingray_36
+    21300074: x4_JetStingray_37
+    21300076: x4_JetStingray_38
+    21300078: x4_JetStingray_39
+    21300080: x4_JetStingray_40
+    21300082: x4_JetStingray_41
+    21300084: x4_JetStingray_42
+    21300086: x4_JetStingray_43
+    21300088: x4_JetStingray_44
+    21300090: x4_JetStingray_45
+    21300092: x4_JetStingray_46
+    21300094: x4_JetStingray_47
+    21300096: x4_JetStingray_48
+    21300098: x4_JetStingray_49
+    21300100: x4_JetStingray_50
+    21300102: x4_JetStingray_51
+    21300104: x4_JetStingray_52
+    21300106: x4_JetStingray_53
+    21300108: x4_JetStingray_54
+    21300110: x4_JetStingray_55
+    21300112: x4_JetStingray_56
+    21300114: x4_JetStingray_57
+    21300116: x4_JetStingray_58
+    21300118: x4_JetStingray_59
+    21300120: x4_JetStingray_60
+    21300122: x4_JetStingray_61
+    21300124: x4_JetStingray_62
+    21300126: x4_JetStingray_63
+    21300128: x4_JetStingray_64
+    21300130: x4_JetStingray_65
+    21300132: x4_JetStingray_66
+    21300134: x4_JetStingray_67
+    21300136: x4_JetStingray_68
+    21300138: x4_JetStingray_69
+    21300140: x4_JetStingray_70
+    21300142: x4_JetStingray_71
+    21300144: x4_JetStingray_72
+    21300146: x4_JetStingray_73
+    21300148: x4_JetStingray_74
+    21300150: x4_JetStingray_75
+    21300152: x4_JetStingray_76
+    21300154: x4_JetStingray_77
+    21300156: x4_JetStingray_78
+    21300158: x4_JetStingray_79
+    21300160: x4_JetStingray_80
+    21300162: x4_JetStingray_81
+    21300164: x4_JetStingray_82
+    21300166: x4_JetStingray_83
+    21300168: x4_JetStingray_84
+    21300170: x4_JetStingray_85
+    21300172: x4_JetStingray_86
+    21300174: x4_JetStingray_87
+    21300176: x4_JetStingray_88
+    21300178: x4_JetStingray_89
+    21300180: x4_JetStingray_90
+    21300182: x4_JetStingray_91
+    21300184: x4_JetStingray_92
+    21300186: x4_JetStingray_93
+    21300188: x4_JetStingray_94
+    21300190: x4_JetStingray_95
+    21300192: x4_JetStingray_96
+    21300194: x4_JetStingray_97
+    21300196: x4_JetStingray_98
+    21300198: x4_JetStingray_99
+    21300200: x4_JetStingray_100
+    21300202: x4_JetStingray_101
+    21300204: x4_JetStingray_102
+    21300206: x4_JetStingray_103
+    21300208: x4_JetStingray_104
+    21300210: x4_JetStingray_105
+    21300212: x4_JetStingray_106
+    21300214: x4_JetStingray_107
+    21300216: x4_JetStingray_108
+    21300218: x4_JetStingray_109
+    21300220: x4_JetStingray_110
+    21300222: x4_JetStingray_111
+    21300224: x4_JetStingray_112
+    21300226: x4_JetStingray_113
+    21300228: x4_JetStingray_114
+    21300230: x4_JetStingray_115
+    21300232: x4_JetStingray_116
+    21300234: x4_JetStingray_117
+    21300236: x4_JetStingray_118
+    21300238: x4_JetStingray_119
+    21300240: x4_JetStingray_120
+    21300242: x4_JetStingray_121
+    21300244: x4_JetStingray_122
+    21300246: x4_JetStingray_123
+    21300248: x4_JetStingray_124
+    21300250: x4_JetStingray_125
+    21300252: x4_JetStingray_126
+    21300254: x4_JetStingray_127
+    21300256: x4_JetStingray_128
+    21300258: x4_JetStingray_129
+    21300260: x4_JetStingray_130
+    21300262: x4_JetStingray_131
+    21300264: x4_JetStingray_132
+    21300266: x4_JetStingray_133
+    21300268: x4_JetStingray_134
+    21300270: x4_JetStingray_135
+    21300272: x4_JetStingray_136
+    21300274: x4_JetStingray_137
+    21300276: x4_JetStingray_138
+    21300278: x4_JetStingray_139
+    21300280: x4_JetStingray_140
+    21300282: x4_JetStingray_141
+    21300284: x4_JetStingray_142
+    21300286: x4_JetStingray_143
+    21300288: x4_JetStingray_144
+    21300290: x4_JetStingray_145
+    21300292: x4_JetStingray_146
+    21300294: x4_JetStingray_147
+    21300296: x4_JetStingray_148
+    21300298: x4_JetStingray_149
+    21300300: x4_JetStingray_150
+    21300302: x4_JetStingray_151
+    21300304: x4_JetStingray_152
+    21300306: x4_JetStingray_153
+    21300308: x4_JetStingray_154
+    21300310: x4_JetStingray_155
+    21300312: x4_JetStingray_156
+    21300314: x4_JetStingray_157
+    21300316: x4_JetStingray_158
+    21300318: x4_JetStingray_159
+    21300320: x4_JetStingray_160
+    21300322: x4_JetStingray_161
+    21300324: x4_JetStingray_162
+    21300326: x4_JetStingray_163
+    21300328: x4_JetStingray_164
+    21300330: x4_JetStingray_165
+    21300332: x4_JetStingray_166
+    21300334: x4_JetStingray_167
+    21300336: x4_JetStingray_168
+    21300338: x4_JetStingray_169
+    21300340: x4_JetStingray_170
+    21300342: x4_JetStingray_171
+    21300344: x4_JetStingray_172
+    21300346: x4_JetStingray_173
+    21300348: x4_JetStingray_174
+    21300350: x4_JetStingray_175
+    21300352: x4_JetStingray_176
+    21300354: x4_JetStingray_177
+    21300356: x4_JetStingray_178
+    21300358: x4_JetStingray_179
+    21300360: x4_JetStingray_180
+    21300362: x4_JetStingray_181
+    21300364: x4_JetStingray_182
+    21300366: x4_JetStingray_183
+    21300368: x4_JetStingray_184
+    21300370: x4_JetStingray_185
+    21300372: x4_JetStingray_186
+    21300374: x4_JetStingray_187
+    21300376: x4_JetStingray_188
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +210,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +222,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +258,3811 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_JetStingray_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1051
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9bafdfbd2f76e4881b7cc6c187bdef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1099
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af992a946fb6f3a4cb61db7688906bc4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_2
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1080
+        width: 35
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce104406ecc1545a17ff9111135f30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_3
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1047
+        width: 70
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff6d35e41c91584e8868be359422b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_4
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1103
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1232b7391062e304d8ac18a9c1086236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1083
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa80f6b4ce885a429f9b9f5bbe73415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_6
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1063
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655bf984b0661c42b888835fea56cbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1065
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23673220aa12e547a6dafd90e6a16bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 1052
+        width: 77
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd091933958964d4abe36da3d59ba0bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_9
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1102
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e2c8ea0f5ad834495863c0e500d44d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_10
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1087
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5278e75a0924896418db34455202e8a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_11
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1070
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81849707eeedcee488e3f87514cb0501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_12
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1052
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1303c32ef9639944a37c48647ab33b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_13
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1052
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817580eb8bce60f49b8232a0877e7850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_14
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1052
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c66afe5c07bfcb84cb253cfdb6fe60cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_15
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1051
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d027a7c44f58e40bb5e09ef665d184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 964
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68960f3e58441dd46ab5ac69cdf9cb8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_17
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 964
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f8691eedb913c4abef6dac5ae87694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 964
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a41455b1da00814c957c14333ec4bf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_19
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 964
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9a4804a14689941abd4d1f2cb3d715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_20
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1011
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190ce14005664e44387f7b75ef023381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 988
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a0608952025ce43b4c9791f6b7737f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_22
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1006
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b1b2373192affb47a0a82f550ccebae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_23
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1012
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ac923bd8bbe7446a0d2e024f3fe31a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_24
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 988
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35c7cab57ff96d48a7a5b2fd4cc6510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 956
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48731bb7d20a8cc4fbf231c98704b9aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_26
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 871
+        width: 34
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b572d7771afa32248b6b4d395bc8f69e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_27
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 919
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abfea49823c9233418fbc5f579e19e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_28
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 872
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb8774ade163449a422073cc8664a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 871
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fcf67ac401edb49b10114e6a4349d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_30
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 871
+        width: 57
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b343558cd538c8d43a18de9d9ea3af08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_31
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 871
+        width: 64
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d20a2e25235704e812d714e71237da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_32
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 873
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 130e59d992f5b72459faeba7fde0c4d4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_33
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 853
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc1b7b7891df22e4a8ffa174ee5337b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_34
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 904
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9bf5f8fb6aa194cb5e13a4a70fbe5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_35
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 887
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1972752974df445a09728f6c9fdcd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_36
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 888
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c019a30c3f9481b479fa9c08189b50fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_37
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 850
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7995c81c364c14bb949c0e187f3b27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_38
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 841
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271120c8b5e3ea48a2ff202303916fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_39
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 864
+        width: 44
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed1de4672c31664f9820ff82c9f10a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_40
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 864
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0e787a096b4f845b6983406e12039a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_41
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 911
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92f8b83a235044591f085fa89fca83
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_42
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 907
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392eac010406f2b44998fe9a71df4284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_43
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 880
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60bf10e35cbef941b2e7cb20f50d901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_44
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 907
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4211501f157494841a1e521b7ef31759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_45
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 883
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a479d8f0c77a5bd4a87a78c293f6a1ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_46
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 882
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6441a48e534cd6458e025d758d40f75
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_47
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 794
+        width: 82
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ac01b6413de0b42b477cf8da671efe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_48
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 794
+        width: 77
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d447e4a9a63ae498c497ef4faf0c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_49
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 794
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a78210cfcf38ae49bb70bf44c7963fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_50
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 808
+        width: 55
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e97885b573d043a90f50bb8dd16ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_51
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 786
+        width: 70
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3646deb0ab87e5c4382141bf165f1230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_52
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 705
+        width: 86
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76696c8ae0be0a94198975fed942ec08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_53
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 707
+        width: 88
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff54423e55fffe429ed728a9f20442d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_54
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 716
+        width: 86
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941ae48865f1e2b478d421098c3ba998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_55
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 713
+        width: 86
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba4e5d4c25963b49bbfe32bccf365c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_56
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 704
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63f0466af641e4e9415445eb86cb45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_57
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 696
+        width: 96
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: febdab7f6089ab84f85b8968ae3f549f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_58
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 700
+        width: 96
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745719741551ff34b8640199eb427209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_59
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 642
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a42d3ff1c6da7f4f969d4862162dc8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_60
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 618
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec609fe0482a4345a0972365cc4b9db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_61
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 619
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed612bfe200621c4aa00c50d1e913c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_62
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 618
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f12672e32266ec41a9e99f3b56d60d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_63
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 618
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f96efa19da2b7445962301dcaf73285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_64
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 619
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b37ef68979f3074b8b6511a82444042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_65
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 623
+        width: 26
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf87949e969a854ea30762e1a10acfa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_66
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 621
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67926a06d9783b041856e70b7b2ae110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_67
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 638
+        width: 86
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61180650c02cf36458de4c65c56a8c7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_68
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 636
+        width: 87
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae75dd2b6bddbc43bdd44982ea042da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_69
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 645
+        width: 85
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96c9a3c2deb05f741ade75537b2f4917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_70
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 646
+        width: 87
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7042bd5b854874f8f71c125fb1d42b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_71
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 638
+        width: 86
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a27790391a2447a8e8aa4d93a3e6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 622
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cbcb7e464774942b96ee31753fc271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_73
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 632
+        width: 85
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90991380383c95141b2c32d544a2e08d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 638
+        width: 87
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468da42dc7f44174bb1f56143703763d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_75
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 603
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b1aa94d62a9a444b84983d53faf9ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_76
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 603
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf63af9ea15ec5742865687e25049e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 603
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306747a4df4d20745906f02bd292ce02
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_78
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 604
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58a21cf3933de84ca84d9a119687b5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_79
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 531
+        width: 85
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f153fa0b4c6cecd4fa6bb3174169f382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_80
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 529
+        width: 84
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04f1a7573c050a4aaebc0f72e519bef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 525
+        width: 90
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ddede993540d447abdd6f0b73eb9de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_82
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 524
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93df3708d6e2ffe4fba8aad45acef067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_83
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 561
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7175523ae974df745b89c7081bd054d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_84
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 553
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b9a900427edf4683e6840f1cdd1de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_85
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 554
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a910099a145837c4da5f98f363734078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_86
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 431
+        width: 17
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b8f65a7064d2a4ca11c9c5d51a0a09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_87
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 432
+        width: 12
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 207dfd86af91de7439953c387e1a342c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_88
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 432
+        width: 14
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6996f8b8c48a240b76788ba80c27d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_89
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 431
+        width: 16
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8474ea1c32424181e0601409f062f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_90
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 494
+        width: 88
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81dda45851a2f242993c989b8294a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_91
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 478
+        width: 88
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5552166e1e13c1b4f9d8ceb000de8a21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_92
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 454
+        width: 87
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1de437bef7b1cb418a23445df2d9582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_93
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 434
+        width: 90
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2db928a97a08cd44b0f01111d23297b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_94
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 457
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c168275501f407a4eb75bea24229b0dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_95
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 480
+        width: 76
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8327f6e5f79519d46aa7c0f2b9721708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_96
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 450
+        width: 72
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b655be8ca63d1384386090e3aa613b59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_97
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 478
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97569ff7747b994ea006e05d02411dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_98
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 452
+        width: 72
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a40a9b4b6484040a2b2014e45bc464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_99
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 458
+        width: 81
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81ffb289de3cf241b36132c8904f514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_100
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 455
+        width: 77
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dbdee5a5cec2c48a2279ac7beb7947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_101
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 455
+        width: 69
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d8157579f526145b569129469d3b21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_102
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 455
+        width: 85
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a01d429dbbe1c64f853bf6ae7bdaba0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_103
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 390
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab6cc67efb766e478b184b52fcfacd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_104
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 388
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8eb6bc1eccb747458a412129f7af2dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_105
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 385
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a3d8210cf76664f9329087c858c52c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_106
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 377
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae36ec42013e04a88875af35b96852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_107
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 373
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba69cc3fe48b884796fbd44104d3b95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_108
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 371
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026957f1dcab3604fb0783f6c2293084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_109
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 371
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a997fa2063ad7345b1f730894839491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_110
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 373
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f139ff167ffd6f49839f22c95670dba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_111
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 371
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7f9f3a0ff5d24ebc6136f5957b01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_112
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 370
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baae4a6810d80e44a9b0f7271fbff93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_113
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 369
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d759ec60bf9b2ed49acf04be9501889b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_114
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 367
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1aa2204a5c759142911ed95c88343d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_115
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 337
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5408fdf6e9c744d40bcbe321008f92dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_116
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 332
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b93db58a96b2bd43b9b6ac28c722fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_117
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 328
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dba4ecd72c2b440a0cc1a9448dbc6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_118
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 321
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f53bd0aa2e4b97241b3babc813312737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_119
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 320
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a616595827268ad448e06a867853dc7d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_120
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 320
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cedd87082673424b801de067b7f1aea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_121
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 326
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ecc724371b7b42ba3cb342970edbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_122
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 328
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564ab57e103b0204c974f0c4e8060793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_123
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 329
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf36cd70961104592d8a650ffc10bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_124
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 330
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678dd144a8cbd574c99dd751c74a4d8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_125
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 330
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4698d31751d39349b2f19c89a47e3de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_126
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 332
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7401acca91ebe2940bf6a4927c12ba70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_127
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 324
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2318f77fc6cef044ab15543f21c66ebc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_128
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 324
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76ba316498d7d6246bc3d5b2fa8f98d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_129
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 333
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6662fc639df1b4ea322a7fc9d57e59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_130
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 334
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c9b707daff15944acfcb465a9ab0b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 278
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cb0e415af774043ba1eba996cc8676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_132
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 276
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64280eb57d43feb41ab3b935dbd6298c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_133
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 276
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20646075645a0dd478a1867cda30e749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_134
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 277
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca38ae65ffe73664cb04ef3ebc368494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_135
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 277
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8239c6fe4d88231448d3e2f84d003a3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_136
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 276
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637954272966ed5408045d2cc675443e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_137
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 276
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc2cdd659aba8b469f2cd50e291f099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_138
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 276
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a86369e76ba2b144a1c1f11b461387b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_139
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 276
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8705cc9004f074941bb9a0e06d5159e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_140
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 279
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2181299ef6c6cde499716d1b1185278e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_141
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 279
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba86cb841f655a34e991f3e1d94d9ed2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_142
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 276
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa918a051de07a439ccfe77b363d4f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 277
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fcc9ca2d646b664385bf297737a11ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_144
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 276
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bae51086f348204c9b39a8801fb6675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_145
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 276
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbb58de3b544634bbe94d8b7ba9f2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_146
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 277
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34878e7816b623f498e5d66db60ec8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_147
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 277
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8181fe3de7a2724f99411bb38df59d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_148
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 276
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a53d48474e9db44abc0767a2e32d8fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_149
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 276
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4417ca8620e06f47b0dbca6a8f25599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_150
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 276
+        width: 13
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f4d477d346a2645b514171306e0a31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_151
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 276
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9760601e4b6fe9a43b47c9b497976939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_152
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 280
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ac5efc8551bd46b192190dd6977c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_153
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 279
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b717fceab6c2548809c1f6d8e32cec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_154
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 276
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17d99becf5da1f4092816660db5c167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_155
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 277
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce7c24735e06e744a5839d0aed4d95e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_156
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 279
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32904360ff73eb145968e08d7de31ce9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_157
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 279
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03952f67172059f46b9fa3e2557d1fec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_158
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 278
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346e8a9257288604d882de10eedee8b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_159
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 160
+        width: 109
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026e606347a2e384b8a18b49ee38c35e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_160
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 164
+        width: 110
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caa857efd4fddf4992204c9a66b7f05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_161
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 141
+        width: 106
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeafbff2d25f4048a8805f6e427bb8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_162
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 152
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6379a0b9c4bdd04facb2492f6683727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_163
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 177
+        width: 73
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f925f038834ee429ec09e3ac510b10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_164
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 177
+        width: 67
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0199aba665b5e4b97b8ecfcb373b81
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_165
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 179
+        width: 81
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71229ef4178e7f4a8be3344cd519069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_166
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 176
+        width: 81
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36aa6caefb646e943b55798e5cae8bd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_167
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 95
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6134906d58fb458498abdfce4b091f3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_168
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 89
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1a6da6967c6f6479950824d6eca98e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_169
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 92
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb2990a4504e2a449b740cf4b4a9a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_170
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 91
+        width: 31
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18998c8aee5a6e246a4ee0084bd84fb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_171
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 83
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6451fd94f3785ed4f947c1d0614c064e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_172
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 83
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2820f131b199b48a0682e7a40aed7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_173
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 84
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e68f7bf9534f9bc40b82e8c7286ce27b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_174
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 85
+        width: 65
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e05a7e35c6c5c42ae4b6cb6a72a15b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_175
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 91
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378108cb182aaec4882e1c2371c354fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_176
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 92
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd1c78aa65fa1442bc2e9d42c8e5cd9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_177
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 91
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1736f9213a1e60146b388814c28c7de2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_178
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 92
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0963d2cabd2a83a4ea14403cf767557b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_179
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 101
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a117a51669c4409eee652f252585f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_180
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 99
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda74a4181768ed4dbee67723bcf45b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_181
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 101
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d53350a533c92342bd8193fc0a6cf55
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_182
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 101
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fdc355ac355f443b04c8d50c111846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_183
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 103
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b763c74b4da95409e91210539bf75b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_184
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 103
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b3ddb810a0af458c791d98c119add
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_185
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 102
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9abb8848bb7ff4c8c11aca2dcd1ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_186
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d58dec5b5e51ad4abcf832067701b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_187
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 4
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb930225842331047a72b22666ecc38e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_JetStingray_188
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 12
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6fbd6cbc7dd2c4bb9a13b4de6c66af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +4072,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

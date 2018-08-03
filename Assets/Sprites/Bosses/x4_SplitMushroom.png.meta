@@ -1,9 +1,119 @@
 fileFormatVersion: 2
 guid: 80e4c1e01110b92419904bd2425200d0
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_SplitMushroom_0
+    21300002: x4_SplitMushroom_1
+    21300004: x4_SplitMushroom_2
+    21300006: x4_SplitMushroom_3
+    21300008: x4_SplitMushroom_4
+    21300010: x4_SplitMushroom_5
+    21300012: x4_SplitMushroom_6
+    21300014: x4_SplitMushroom_7
+    21300016: x4_SplitMushroom_8
+    21300018: x4_SplitMushroom_9
+    21300020: x4_SplitMushroom_10
+    21300022: x4_SplitMushroom_11
+    21300024: x4_SplitMushroom_12
+    21300026: x4_SplitMushroom_13
+    21300028: x4_SplitMushroom_14
+    21300030: x4_SplitMushroom_15
+    21300032: x4_SplitMushroom_16
+    21300034: x4_SplitMushroom_17
+    21300036: x4_SplitMushroom_18
+    21300038: x4_SplitMushroom_19
+    21300040: x4_SplitMushroom_20
+    21300042: x4_SplitMushroom_21
+    21300044: x4_SplitMushroom_22
+    21300046: x4_SplitMushroom_23
+    21300048: x4_SplitMushroom_24
+    21300050: x4_SplitMushroom_25
+    21300052: x4_SplitMushroom_26
+    21300054: x4_SplitMushroom_27
+    21300056: x4_SplitMushroom_28
+    21300058: x4_SplitMushroom_29
+    21300060: x4_SplitMushroom_30
+    21300062: x4_SplitMushroom_31
+    21300064: x4_SplitMushroom_32
+    21300066: x4_SplitMushroom_33
+    21300068: x4_SplitMushroom_34
+    21300070: x4_SplitMushroom_35
+    21300072: x4_SplitMushroom_36
+    21300074: x4_SplitMushroom_37
+    21300076: x4_SplitMushroom_38
+    21300078: x4_SplitMushroom_39
+    21300080: x4_SplitMushroom_40
+    21300082: x4_SplitMushroom_41
+    21300084: x4_SplitMushroom_42
+    21300086: x4_SplitMushroom_43
+    21300088: x4_SplitMushroom_44
+    21300090: x4_SplitMushroom_45
+    21300092: x4_SplitMushroom_46
+    21300094: x4_SplitMushroom_47
+    21300096: x4_SplitMushroom_48
+    21300098: x4_SplitMushroom_49
+    21300100: x4_SplitMushroom_50
+    21300102: x4_SplitMushroom_51
+    21300104: x4_SplitMushroom_52
+    21300106: x4_SplitMushroom_53
+    21300108: x4_SplitMushroom_54
+    21300110: x4_SplitMushroom_55
+    21300112: x4_SplitMushroom_56
+    21300114: x4_SplitMushroom_57
+    21300116: x4_SplitMushroom_58
+    21300118: x4_SplitMushroom_59
+    21300120: x4_SplitMushroom_60
+    21300122: x4_SplitMushroom_61
+    21300124: x4_SplitMushroom_62
+    21300126: x4_SplitMushroom_63
+    21300128: x4_SplitMushroom_64
+    21300130: x4_SplitMushroom_65
+    21300132: x4_SplitMushroom_66
+    21300134: x4_SplitMushroom_67
+    21300136: x4_SplitMushroom_68
+    21300138: x4_SplitMushroom_69
+    21300140: x4_SplitMushroom_70
+    21300142: x4_SplitMushroom_71
+    21300144: x4_SplitMushroom_72
+    21300146: x4_SplitMushroom_73
+    21300148: x4_SplitMushroom_74
+    21300150: x4_SplitMushroom_75
+    21300152: x4_SplitMushroom_76
+    21300154: x4_SplitMushroom_77
+    21300156: x4_SplitMushroom_78
+    21300158: x4_SplitMushroom_79
+    21300160: x4_SplitMushroom_80
+    21300162: x4_SplitMushroom_81
+    21300164: x4_SplitMushroom_82
+    21300166: x4_SplitMushroom_83
+    21300168: x4_SplitMushroom_84
+    21300170: x4_SplitMushroom_85
+    21300172: x4_SplitMushroom_86
+    21300174: x4_SplitMushroom_87
+    21300176: x4_SplitMushroom_88
+    21300178: x4_SplitMushroom_89
+    21300180: x4_SplitMushroom_90
+    21300182: x4_SplitMushroom_91
+    21300184: x4_SplitMushroom_92
+    21300186: x4_SplitMushroom_93
+    21300188: x4_SplitMushroom_94
+    21300190: x4_SplitMushroom_95
+    21300192: x4_SplitMushroom_96
+    21300194: x4_SplitMushroom_97
+    21300196: x4_SplitMushroom_98
+    21300198: x4_SplitMushroom_99
+    21300200: x4_SplitMushroom_100
+    21300202: x4_SplitMushroom_101
+    21300204: x4_SplitMushroom_102
+    21300206: x4_SplitMushroom_103
+    21300208: x4_SplitMushroom_104
+    21300210: x4_SplitMushroom_105
+    21300212: x4_SplitMushroom_106
+    21300214: x4_SplitMushroom_107
+    21300216: x4_SplitMushroom_108
+    21300218: x4_SplitMushroom_109
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +131,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +143,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +179,2231 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_SplitMushroom_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 677
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f121421da8d046047bda42c07cfd27c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 677
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0add9f3b94675df4ca569bf0f2ff712c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 676
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d7c15194fa2af43956d2ce1c1a9620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 677
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f990a62f0d469438aa90543d2782bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_4
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 677
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e20f701b44777246b2a8b44094f4cd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 677
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330de2ca376fadd4ea5ca3bc0e0bafa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_6
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 677
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b694b455ca1b14e8ac819a9a634b13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_7
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 703
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 665f0110599b1344c8e9611e130825e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_8
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 687
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997a89235fdc04949a91b928074c8331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_9
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 677
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8168f6447244e44eb59e0b85d6cb514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_10
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 679
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3893655d663054eaa0109b60be9584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 614
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68de4a7ba6b98c841b60c24eb62fa6cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 613
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f27055a0c89bd47ba016f1dcaa2aeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_13
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 613
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bfec2990ef077489045282fcf55a5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_14
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 615
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c6b9ef681a0734ba1dc6a5e6c122c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_15
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 619
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1627cd1e4c68d2438a80b8ce766d567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 622
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3af9c406500734593ed893a3f7a305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_17
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 617
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472f1dd5e375fac40958c53c24774e35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_18
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 617
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed9606b62f1e554d817281b1ffec466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_19
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 618
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef11a3ed911140b4f89fe7b2d29acd4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_20
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 619
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcd20f6d15eb83419b7de588593a523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 619
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e670507b5d2052141983616b3024b37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_22
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 549
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd056c22804b9c44a229c7b0aa3fb63
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_23
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 548
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e82cfd8ab97e504d9273136203eeb4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 548
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e10ae509e24394ca1b04d4749e02ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_25
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 548
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de65b2ff5eef0ad458f6d226d6ea55ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_26
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 550
+        width: 34
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6bac5432d1fb24281a7d48f9e33203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_27
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 547
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63717ce1c177741b859901b2e76463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 547
+        width: 50
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a14bc7560b0a947aa8fe3f18ac50df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 546
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad838f2840474644690e580e8d9bfeeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 550
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3d9d0ccbf71d9e41b598fc7b777f62c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_31
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 479
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017dda0c498002244b7c97e76773d2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_32
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 480
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001705aa746b99a4d87d4629cd5ef955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 480
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41015c281717ce34e81117397c39ba31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 478
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c67408d4a1e284f98545b0fff7c9a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_35
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 498
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da57078e418f5004f8e8d73990bc2529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_36
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 519
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78160070d3c5949408920b93bc9ae6e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_37
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 478
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d886f19052397e8419bad5add084c95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_38
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 482
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e510fd212f8aa642bfbe9275bc22450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 479
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa9f7ca51f2df448b70ea4c5265da36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_40
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 501
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e73138615447b4d8f2cb99048ce63b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b14cb4afdbc0cc4ba18e516067e6a6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_42
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 480
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc8c26b83431c34392462e4268fad7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_43
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 479
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb7c12316e9ff4fa3fad880a6073a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 415
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2cb913ee056e843bcf2736f573c0ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_45
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 415
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded0f87af4719aa44b4f465d4053be79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_46
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 408
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e9715ee9e68c4d892933f6a3b1f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_47
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 408
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c5f0ca70d8928498e88b3769a10cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 408
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249759ceb92bd7d4189e6980da84030d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_49
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 408
+        width: 49
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a81637539d2dc498191a465d6628eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_50
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 408
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc1a1190c0ce2548bf1fe053cd9482e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_51
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 408
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9742f7a897e6ee4fb0bfa4543eba7d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_52
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 409
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524bd97ae8c909f499be3bffc2f13676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_53
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 408
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdaf6535cbc3894f935ccd97651f55f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_54
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 361
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99c6c182db70a46aa6d47c4b0db9d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_55
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 358
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d961754ee025e47a4a3ba324eb8b39
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_56
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 353
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0961ef556e0363b4aaf8f4b609cb6e8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_57
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 351
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c884cf4bcb86ba46ba03d7e57dbab6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_58
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 351
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841722a9175ed1244aa3c1f0e8b2e265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_59
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 349
+        width: 31
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ff9d22407430428978f747f731463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_60
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 352
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bcde195fc353e429ff9f6bae9e287b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_61
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 346
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ae2251bf5fb0548b6ec34d3e91ce05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 295
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d69767ade07ac4b8affcc699c9e772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_63
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 296
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1cc1f26c4551645bceb4843bc30bfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_64
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 296
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f2e638f6008544b4c7dd22386b1a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_65
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 297
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c1507d87e5eb14409031a600790e7b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_66
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 288
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c7b34c1635bd74b8b78e6e53835a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_67
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f04e88310899e249a998df555870c06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_68
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 289
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82203387b624c3148ad4dd64bc64c508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_69
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 286
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28714c13c04e434483a11d1ca9be5da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_70
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 246
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8789cf08b966cc48b04a39761f39203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_71
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 243
+        width: 58
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60b056fa8fee9746961ca474264d56a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_72
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 240
+        width: 61
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bb398ee998b3848be57aa0e1136b79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_73
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 240
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8025b1891448294c86b805bfb39c4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_74
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 243
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653fc20d01b732b478b3216b89d08d57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_75
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 243
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1fa755a77e8c41a759c96ff035a5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_76
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 236
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca2388d48817943b69994cb755b01a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_77
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 228
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ebf55cbf354a049b4ad0a31ba4bc33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_78
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 243
+        width: 25
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c37141db2e6ea848ad5316695077af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_79
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 243
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ec7ec2bd6b5d04ebe985289c23ae18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_80
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 244
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346164d1fb04bc847b7bf686e260f91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_81
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 243
+        width: 44
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ee29b328cd70147bd20e17a63d0984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_82
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 160
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a93e4bee849e3d149881222c2df84880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 159
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8462813042eb4e8358909f5e301bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_84
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 160
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717803cfbfa02bc4cb9925f55b6242ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_85
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 172
+        width: 49
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7661f9190ab0dc479cdeea71031773e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_88
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 165
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6743513de1eddda4f9da255fb2e05774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_86
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 168
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1515bab2db5241458dbe91cd2af23a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_87
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 118
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3defb2567abe0c4cb479b93bb6e4664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_89
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 116
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9e5fda9e155314185b696dc055612a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_90
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 116
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d924a557417fac940b1f2002f726e5f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 114
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c042825bee7ed4292454c42dc69662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_92
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289b37ee0a63f4f4cb605cdad42e1b07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_93
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 105
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053c46335180b354ab5c4167a102a2da
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_94
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f55225da2ced41b80c7edd79d4f1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_95
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 100
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d8796a1546db246aa959cdd2cb1b6a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_96
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 100
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d083c44c8dad6e499b721f420ec3037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_97
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 102
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd942d718b78044784bdb0990ab8a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_98
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 99
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b85774be4d14b374ca292755fe9cffa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_99
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 97
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db443c26054b524e84dcdb774690091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_100
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 97
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eaae561a848fdf4c8ea9127b9b8da7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_101
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 95
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e828a06ac4b0d624cac68091106cb58c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_102
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 57
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd9b495fe752b478f6ab0cbcfe26d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_103
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 57
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab67c6c253c7f7849b44973185882ceb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_104
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 57
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcc3b614ed8de344e8bee54a9d35f542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_105
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 58
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df596e99251074d8f6a8eb94fa1b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_106
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 58
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e5dfb9eec2c35468c2e22cc34f5397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_107
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 59
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ac1844f507f5d4b953130ca30284a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_108
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 60
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521b649faf7faad44a4aa83a5c8c2801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_SplitMushroom_109
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 61
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b573fd420c51684da782fd0a2031899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +2413,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

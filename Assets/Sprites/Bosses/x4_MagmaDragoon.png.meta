@@ -1,9 +1,233 @@
 fileFormatVersion: 2
 guid: 875eb2f3651673b47ba31aec76de0a73
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_MagmaDragoon_0
+    21300002: x4_MagmaDragoon_1
+    21300004: x4_MagmaDragoon_2
+    21300006: x4_MagmaDragoon_3
+    21300008: x4_MagmaDragoon_4
+    21300010: x4_MagmaDragoon_5
+    21300012: x4_MagmaDragoon_6
+    21300014: x4_MagmaDragoon_7
+    21300016: x4_MagmaDragoon_8
+    21300018: x4_MagmaDragoon_9
+    21300020: x4_MagmaDragoon_10
+    21300022: x4_MagmaDragoon_11
+    21300024: x4_MagmaDragoon_12
+    21300026: x4_MagmaDragoon_13
+    21300028: x4_MagmaDragoon_14
+    21300030: x4_MagmaDragoon_15
+    21300032: x4_MagmaDragoon_16
+    21300034: x4_MagmaDragoon_17
+    21300036: x4_MagmaDragoon_18
+    21300038: x4_MagmaDragoon_19
+    21300040: x4_MagmaDragoon_20
+    21300042: x4_MagmaDragoon_21
+    21300044: x4_MagmaDragoon_22
+    21300046: x4_MagmaDragoon_23
+    21300048: x4_MagmaDragoon_24
+    21300050: x4_MagmaDragoon_25
+    21300052: x4_MagmaDragoon_26
+    21300054: x4_MagmaDragoon_27
+    21300056: x4_MagmaDragoon_28
+    21300058: x4_MagmaDragoon_29
+    21300060: x4_MagmaDragoon_30
+    21300062: x4_MagmaDragoon_31
+    21300064: x4_MagmaDragoon_32
+    21300066: x4_MagmaDragoon_33
+    21300068: x4_MagmaDragoon_34
+    21300070: x4_MagmaDragoon_35
+    21300072: x4_MagmaDragoon_36
+    21300074: x4_MagmaDragoon_37
+    21300076: x4_MagmaDragoon_38
+    21300078: x4_MagmaDragoon_39
+    21300080: x4_MagmaDragoon_40
+    21300082: x4_MagmaDragoon_41
+    21300084: x4_MagmaDragoon_42
+    21300086: x4_MagmaDragoon_43
+    21300088: x4_MagmaDragoon_44
+    21300090: x4_MagmaDragoon_45
+    21300092: x4_MagmaDragoon_46
+    21300094: x4_MagmaDragoon_47
+    21300096: x4_MagmaDragoon_48
+    21300098: x4_MagmaDragoon_49
+    21300100: x4_MagmaDragoon_50
+    21300102: x4_MagmaDragoon_51
+    21300104: x4_MagmaDragoon_52
+    21300106: x4_MagmaDragoon_53
+    21300108: x4_MagmaDragoon_54
+    21300110: x4_MagmaDragoon_55
+    21300112: x4_MagmaDragoon_56
+    21300114: x4_MagmaDragoon_57
+    21300116: x4_MagmaDragoon_58
+    21300118: x4_MagmaDragoon_59
+    21300120: x4_MagmaDragoon_60
+    21300122: x4_MagmaDragoon_61
+    21300124: x4_MagmaDragoon_62
+    21300126: x4_MagmaDragoon_63
+    21300128: x4_MagmaDragoon_64
+    21300130: x4_MagmaDragoon_65
+    21300132: x4_MagmaDragoon_66
+    21300134: x4_MagmaDragoon_67
+    21300136: x4_MagmaDragoon_68
+    21300138: x4_MagmaDragoon_69
+    21300140: x4_MagmaDragoon_70
+    21300142: x4_MagmaDragoon_71
+    21300144: x4_MagmaDragoon_72
+    21300146: x4_MagmaDragoon_73
+    21300148: x4_MagmaDragoon_74
+    21300150: x4_MagmaDragoon_75
+    21300152: x4_MagmaDragoon_76
+    21300154: x4_MagmaDragoon_77
+    21300156: x4_MagmaDragoon_78
+    21300158: x4_MagmaDragoon_79
+    21300160: x4_MagmaDragoon_80
+    21300162: x4_MagmaDragoon_81
+    21300164: x4_MagmaDragoon_82
+    21300166: x4_MagmaDragoon_83
+    21300168: x4_MagmaDragoon_84
+    21300170: x4_MagmaDragoon_85
+    21300172: x4_MagmaDragoon_86
+    21300174: x4_MagmaDragoon_87
+    21300176: x4_MagmaDragoon_88
+    21300178: x4_MagmaDragoon_89
+    21300180: x4_MagmaDragoon_90
+    21300182: x4_MagmaDragoon_91
+    21300184: x4_MagmaDragoon_92
+    21300186: x4_MagmaDragoon_93
+    21300188: x4_MagmaDragoon_94
+    21300190: x4_MagmaDragoon_95
+    21300192: x4_MagmaDragoon_96
+    21300194: x4_MagmaDragoon_97
+    21300196: x4_MagmaDragoon_98
+    21300198: x4_MagmaDragoon_99
+    21300200: x4_MagmaDragoon_100
+    21300202: x4_MagmaDragoon_101
+    21300204: x4_MagmaDragoon_102
+    21300206: x4_MagmaDragoon_103
+    21300208: x4_MagmaDragoon_104
+    21300210: x4_MagmaDragoon_105
+    21300212: x4_MagmaDragoon_106
+    21300214: x4_MagmaDragoon_107
+    21300216: x4_MagmaDragoon_108
+    21300218: x4_MagmaDragoon_109
+    21300220: x4_MagmaDragoon_110
+    21300222: x4_MagmaDragoon_111
+    21300224: x4_MagmaDragoon_112
+    21300226: x4_MagmaDragoon_113
+    21300228: x4_MagmaDragoon_114
+    21300230: x4_MagmaDragoon_115
+    21300232: x4_MagmaDragoon_116
+    21300234: x4_MagmaDragoon_117
+    21300236: x4_MagmaDragoon_118
+    21300238: x4_MagmaDragoon_119
+    21300240: x4_MagmaDragoon_120
+    21300242: x4_MagmaDragoon_121
+    21300244: x4_MagmaDragoon_122
+    21300246: x4_MagmaDragoon_123
+    21300248: x4_MagmaDragoon_124
+    21300250: x4_MagmaDragoon_125
+    21300252: x4_MagmaDragoon_126
+    21300254: x4_MagmaDragoon_127
+    21300256: x4_MagmaDragoon_128
+    21300258: x4_MagmaDragoon_129
+    21300260: x4_MagmaDragoon_130
+    21300262: x4_MagmaDragoon_131
+    21300264: x4_MagmaDragoon_132
+    21300266: x4_MagmaDragoon_133
+    21300268: x4_MagmaDragoon_134
+    21300270: x4_MagmaDragoon_135
+    21300272: x4_MagmaDragoon_136
+    21300274: x4_MagmaDragoon_137
+    21300276: x4_MagmaDragoon_138
+    21300278: x4_MagmaDragoon_139
+    21300280: x4_MagmaDragoon_140
+    21300282: x4_MagmaDragoon_141
+    21300284: x4_MagmaDragoon_142
+    21300286: x4_MagmaDragoon_143
+    21300288: x4_MagmaDragoon_144
+    21300290: x4_MagmaDragoon_145
+    21300292: x4_MagmaDragoon_146
+    21300294: x4_MagmaDragoon_147
+    21300296: x4_MagmaDragoon_148
+    21300298: x4_MagmaDragoon_149
+    21300300: x4_MagmaDragoon_150
+    21300302: x4_MagmaDragoon_151
+    21300304: x4_MagmaDragoon_152
+    21300306: x4_MagmaDragoon_153
+    21300308: x4_MagmaDragoon_154
+    21300310: x4_MagmaDragoon_155
+    21300312: x4_MagmaDragoon_156
+    21300314: x4_MagmaDragoon_157
+    21300316: x4_MagmaDragoon_158
+    21300318: x4_MagmaDragoon_159
+    21300320: x4_MagmaDragoon_160
+    21300322: x4_MagmaDragoon_161
+    21300324: x4_MagmaDragoon_162
+    21300326: x4_MagmaDragoon_163
+    21300328: x4_MagmaDragoon_164
+    21300330: x4_MagmaDragoon_165
+    21300332: x4_MagmaDragoon_166
+    21300334: x4_MagmaDragoon_167
+    21300336: x4_MagmaDragoon_168
+    21300338: x4_MagmaDragoon_169
+    21300340: x4_MagmaDragoon_170
+    21300342: x4_MagmaDragoon_171
+    21300344: x4_MagmaDragoon_172
+    21300346: x4_MagmaDragoon_173
+    21300348: x4_MagmaDragoon_174
+    21300350: x4_MagmaDragoon_175
+    21300352: x4_MagmaDragoon_176
+    21300354: x4_MagmaDragoon_177
+    21300356: x4_MagmaDragoon_178
+    21300358: x4_MagmaDragoon_179
+    21300360: x4_MagmaDragoon_180
+    21300362: x4_MagmaDragoon_181
+    21300364: x4_MagmaDragoon_182
+    21300366: x4_MagmaDragoon_183
+    21300368: x4_MagmaDragoon_184
+    21300370: x4_MagmaDragoon_185
+    21300372: x4_MagmaDragoon_186
+    21300374: x4_MagmaDragoon_187
+    21300376: x4_MagmaDragoon_188
+    21300378: x4_MagmaDragoon_189
+    21300380: x4_MagmaDragoon_190
+    21300382: x4_MagmaDragoon_191
+    21300384: x4_MagmaDragoon_192
+    21300386: x4_MagmaDragoon_193
+    21300388: x4_MagmaDragoon_194
+    21300390: x4_MagmaDragoon_195
+    21300392: x4_MagmaDragoon_196
+    21300394: x4_MagmaDragoon_197
+    21300396: x4_MagmaDragoon_198
+    21300398: x4_MagmaDragoon_199
+    21300400: x4_MagmaDragoon_200
+    21300402: x4_MagmaDragoon_201
+    21300404: x4_MagmaDragoon_202
+    21300406: x4_MagmaDragoon_203
+    21300408: x4_MagmaDragoon_204
+    21300410: x4_MagmaDragoon_205
+    21300412: x4_MagmaDragoon_206
+    21300414: x4_MagmaDragoon_207
+    21300416: x4_MagmaDragoon_208
+    21300418: x4_MagmaDragoon_209
+    21300420: x4_MagmaDragoon_210
+    21300422: x4_MagmaDragoon_211
+    21300424: x4_MagmaDragoon_212
+    21300426: x4_MagmaDragoon_213
+    21300428: x4_MagmaDragoon_214
+    21300430: x4_MagmaDragoon_215
+    21300432: x4_MagmaDragoon_216
+    21300434: x4_MagmaDragoon_217
+    21300436: x4_MagmaDragoon_218
+    21300438: x4_MagmaDragoon_219
+    21300440: x4_MagmaDragoon_220
+    21300442: x4_MagmaDragoon_221
+    21300444: x4_MagmaDragoon_222
+    21300446: x4_MagmaDragoon_223
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +245,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +257,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +293,4511 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_0
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1626
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149dc68ce111d0e4f95931bedf02138a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 1671
+        width: 59
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4c30904fecd7d47a77322f19a43340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_2
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1655
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2c771982655684ea0e042f1d02f98a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1698
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fc1f5e3fa0c8f748bf0e6a596e8f7c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1653
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3adc4d2dc109fa64b83bdb1fa98b92f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1617
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938a3add2df412640afc4e1d435d5ac5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_6
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1622
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fbb46492f07964587d6099b9064cfc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_7
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 1668
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1279345ae20ff58439f6319d4ef57dd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1632
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21affca53b5433b4f948f0a87338ab35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_9
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1623
+        width: 80
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5532a7bded4214b90ac22c73ec4113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1654
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fee6095dfa63b64fb6f47e0e8809e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_11
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1676
+        width: 45
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cf90c3db3bec549ad9b3bab8627761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 1656
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c77f95a143a3d847bae38a505b38b6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_13
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1658
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 160cd695738d8e24bb3eb341df109919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_14
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1619
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde4b0a3132a250449880788e2192279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_15
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1509
+        width: 98
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da1a5d5e56cdb4d9f83b6899ddd6eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_16
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1503
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69e2297c3588054f81576829451d77c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1506
+        width: 101
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e89af51d16d926948b981473b7db6e11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1579
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a50ff271a9f55749951779e57b514f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1555
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2be417a08200e84083b1b17e5d80bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_20
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1540
+        width: 34
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2eeabef2cf6b44c9895f18cef1a470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_21
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1492
+        width: 89
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd47b09a6c4d941953583776442f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_22
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1497
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ae36d842dc4074db1dfe712c8c61d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1409
+        width: 87
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4b28665788c7a4e9a8ce63b29941e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_24
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1401
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0cc7608e1a3964887a0c5617535ff5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_25
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1335
+        width: 75
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd29c53ece5cdf045b9e8dfd1520512e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1335
+        width: 98
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117eb09bb2035a04cb88a69f596438f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1385
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c4c0c59ecb3f54398b1f46067c824f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1350
+        width: 42
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3576eda96e776894f8f2a25592ea0bd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_29
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1362
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935155c5d72aa90498c2a17ee15f9bb6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_30
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1363
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d8365cfdc5924d8ccb883b601bc21
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_31
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1345
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3839a4379bd74b41b76eda121e00d6e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_32
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1441
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d097a01768e5c4c9a51d9f50a892f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_33
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1416
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3547846ee9c0a74f844f35ba0c5c808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_34
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1401
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65078be5a7c5b8f4b8d148381b5a672c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_35
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1354
+        width: 35
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6e0ff2c49de334dad24fd5e843225b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_36
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1366
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b4a11be2bd131419e87fe971d70d44
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_37
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1373
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b379b16511a0b488100eba2ab40fa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_38
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1348
+        width: 56
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e3bfba1abc4074e816f9291acbcd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_39
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1215
+        width: 65
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf8909ca50e1df4cbc5cb3b3f7731ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_40
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1216
+        width: 80
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d5688067826884bb82540887b569a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1211
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c780383680d189843837b96a00368daf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1211
+        width: 76
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b54e2fb97f0a04db683166975e9f17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_43
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1212
+        width: 96
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0396249b634910e4692031ba4414bb69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_44
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1206
+        width: 43
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53adf18905d79c247b4e080822137266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1218
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9406addaf6fa5449ba82336e73f1301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_46
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1240
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6dd3f3ef8b47d948b9d6f064a7f494f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_47
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1219
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e223de462d428844084eb43a115f2fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_48
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1201
+        width: 37
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a91dc8082af214cbfab38a95362443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_49
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1246
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcc39b3d478d274ba6f3354e936f251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1087
+        width: 92
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd0fc63001b9549887ceda54871bc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_51
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1116
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca12e9d409c0ef478ac7cf07bde5f4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1125
+        width: 55
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86cfb3c27601c5489085e911a33bfe3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_53
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1086
+        width: 91
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf4857e5e372584583e1fb7482258d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_54
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1124
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf86cad8eb77646b1b2a6705f36f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_55
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1111
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4269b09376011134d898a58e99f5a1d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_56
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1090
+        width: 46
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e29db11e3f553ae459cb7b57a4915526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_57
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1077
+        width: 100
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: facb7cdee4c059146be1d83325c350a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_58
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1153
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9636dd9a23a6e1844b7428a8495e45c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_59
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1144
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84402089b86a55458d870fa436100e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_60
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 1144
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06bdda78b65a044ab4333289a2c5ef9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_61
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1122
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8bae20621489746aed6e91f6004e03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_62
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1095
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1507bd2ad58b3f04ab33493611a271c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_63
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1060
+        width: 45
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e98e0147c1caa84bbb446b71c63057b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_64
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1056
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16b084cad32ab0408df14dfd84c6b6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_65
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1072
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788090e285db573489ad87d832e76d95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_66
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 1073
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6465e05dd735adb4eae2679e5b747238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_67
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 1104
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e2ee3bce2dd7a4798548106a09d618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_68
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 966
+        width: 95
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061268fd99a3e8d4c9ced10e28f747cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_69
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 966
+        width: 96
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35bb4790e5b15384dacd5fa71b8e8ab7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_70
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 965
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c3daaf1ff21f14abf6ef0db81048ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_71
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1009
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8cc23ad4437b64182ea4ed4aa5d622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_72
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1008
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c593488e526e114bbce51715e3c341a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_73
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 972
+        width: 77
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f219bd0364be54b85948b74fe7972e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_74
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 973
+        width: 81
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887aa7604983e8a4ca2e82ababa6e5ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_75
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 907
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62107f8d686154d45935eee1d228212a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 912
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c79ffd8725583e4b980f2d75a52ecc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_77
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 907
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0177ca48db84da4a8fbe9ed2cdacee2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 906
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbe5b24f3b7114488570593fe9190aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_79
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 908
+        width: 49
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc4c05c2c4eb0241aad0f37ee3e183d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 910
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ba790ef7e1f434ea07a832e80de015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 907
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c40093120c71c4387cc852ab47572b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_82
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 910
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea66dd54f858af49846d4169ba75648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_83
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 912
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6c1af7494218f14eb2aa713ffa03c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_84
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 920
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d8eb5d6368f97418f7d3e80f5ceece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_85
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 916
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6a099777e6cdc44ab4596cea64ffa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_86
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 916
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c4dce9eacc20349bdc87f75559ca85
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_87
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 869
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be40c55899056b9468d56e4e436ec0de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_88
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 868
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9877305499b567f4aa51bacb24aafa64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_89
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 869
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7462e66764eee24497318e89ef051ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_90
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 867
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23076127847aff640b5f94bc84e594aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_91
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 863
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d81f2695c13dfe44b47d5da8c3ea451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_92
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 862
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526c7d773e12e5e4ca81f03752798978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_93
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 865
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3926a6e9a1ab87244a46c53afa5b0be0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 864
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0755b4ff90d6e4e87cc651b551ac9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_95
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 868
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4692217fd85c8014fa299769d78b2fcc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_96
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 872
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dbd2895c17b3a43bff9bf1af194b1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_97
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 880
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f389b4e25bc675d42a4a4a20cc69628f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_98
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 821
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a56b3289dee000499fe31c75590f5fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_99
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 820
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297393d29f9b6bb41b0a33b0b6f13e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_100
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 823
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc55550afd0404549af8958317fb1f53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_101
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 811
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01d32de11259fa4cabef9df9594f773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_102
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 812
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648bab7ee74c7d445a76a51b7eab7f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_103
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 811
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d921abd7e353fbb4cb4b2d4ed8e5b2e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_104
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 812
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00dfc7653b79b4bbc906c62592b593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 813
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d02f09808437f4c89f33dd50b15ff0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_106
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 811
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d513061043b37741b819e9541bf8d53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_107
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 811
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f365cdd66a87a4da839a3d81242bea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_108
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 814
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108f6945dfa8ac449cfc89083d082bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_109
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 815
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b81aa06d831ad42880565f90b078ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_110
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 779
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c23bb4ecf8eeb74c84b15616a51afd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_111
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 774
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47aebcd1c474dd543899706700797ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_112
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 767
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6221df8418f1ba14583650c250d06761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_113
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 767
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08fed004bf70ab40919f2bc01a47a82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_114
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 742
+        width: 35
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d546e30b2ef89424da7232e9e301b0e0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_115
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 758
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad98296ec71a56c4e99678e312fbb3b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_116
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 753
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b830ebb9e9f1234ab0b867666b3081f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_117
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 753
+        width: 34
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a953f5cc17df27246a94596141c96c47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_118
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 757
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caa3c4ca39f8fa4c861c2bba6bc7f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_119
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 727
+        width: 55
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bd1dab5e8da424ab5a64b028a8ff60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_120
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 745
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54015571b381b444be0dd0d44677776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_121
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 745
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a4c3a006d873a4ea5b7c5a6393c4ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_122
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 740
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae260868cc5a20f42a60e58821b46833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_123
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 686
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aff10d1f1e14934ca150877201d7126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_124
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 679
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb4d3517f62f8c40bcfb058a8a72cce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_125
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 676
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d770aec679d0fc4d903334b23fc0a3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_126
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 668
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e863b1dfdde7b24aaf1d385bb3f2f19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_127
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 665
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef7243cb12cc114e981d2af277720f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_128
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 665
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69a7e4a547e7084c8a6c4acc527d5d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_129
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 665
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01578355718a35a459c18a859cad5b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_130
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 666
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da602bf2a5641440b8526c6a4fcd225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_131
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 605
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc89831214a6ce41bd29b13d2b749bc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_132
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 604
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c8e1eb99fcfd547be7761f1ed2047d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_133
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 603
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f08036383f53ae4499859b9752d6632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_134
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 604
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f97a83787cde04d938ed08bb116807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_135
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 599
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db631cbf1e7b804f8b1a16122e7c734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_136
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 563
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620893e82d2504f47802d22fcc2f067c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_137
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 563
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6695ba122faea6245bf6a5ce4a7eca6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_138
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 563
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b701330f2a8bc4f965173e69eebe9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_139
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 563
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a941086450f4eb64cbc3fb24651c44f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_140
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 563
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d1c8981f7b1d64e9a8e28278dcfce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_141
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 563
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f7a789f3dae684a9dcfb2be91f225c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_142
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 564
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24de200f50edba14fa51f77a62cfa2c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_143
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 563
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae318c8a5577b54193ef3e7721f06b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_144
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 563
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0db7000d748464c87f1a0051583af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_145
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 563
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed47703a63f3324bbcae5352679f2c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_146
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 563
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf829b8412b7f8e4b89f5594e38d3206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_147
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 563
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42345f15485404488dfab4cd369ecfb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_148
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 563
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 408459db375290840b21fc903c87332a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_149
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 563
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40113dc31a3a0b4e805459029e00b36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_150
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 526
+        width: 39
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9f6a6f48dafd14a9fec9ee84bb211e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_151
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 526
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce45cbca265e744e91e26769ae8b9c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_152
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 526
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed23e00d8e27e074e8af7b4702a95853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_153
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 526
+        width: 46
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06b055c9aa7add478e03c639fdaf14e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_154
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 526
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c73d9faa57c498439fc43c450d98e4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_155
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 526
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef6b2eaa432c23488cd90ced196badd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_156
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 526
+        width: 50
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb828c0b9f44224290003d95fd75452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_157
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 526
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf473dac1a5988d44a54bab7070b8495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_158
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 488
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afa1c1d97c3203449b84cd8ccf0e5ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_159
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 471
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb40045c02e2624f8fafcbe98c9e4e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_160
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 488
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53754875bdec0b04d9c886db2659c619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_161
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 470
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae688ecbd85ba04984ad96f306a9552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 488
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c03572c1caa7e4d817b22c75c94878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_163
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 470
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da949847a15396c45a9a5e0309d45869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_164
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 487
+        width: 46
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ac3cb3b0c71844ca884c4d7ce49494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_165
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 470
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14716dfeead85f9409a3ac4ee7e3210b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_166
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 488
+        width: 47
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84f338490ee9540a83364cb099cb59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_167
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 471
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43de87991f020204b87105b6085dc4f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_168
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 488
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855e5fae9fc479142aa7e2d9eb4e8d74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_169
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 470
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b455d587c69c814fb7782139a35e539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_170
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 487
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87de98400f309b342b0b9e991f70a616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_171
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 471
+        width: 46
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bc7fbccefa45a449dacec5516fdbcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_172
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 488
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc3f9d00d4651d45abd908a03931134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_173
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 471
+        width: 45
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832e325cfb24e85449ec31dec4684608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_174
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 397
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8255eda6ed913454c9122e18d5e45291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_175
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 393
+        width: 63
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d2e471374b3f24bbc1e85fdb230fde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_176
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 394
+        width: 65
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78151d095ee1bea4ab90918ff29c7447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_177
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 393
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ca1f32c21992845a47a0b525a324f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_178
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 393
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed11f1a851abe0347b03fa40fb371988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_179
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 392
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c06e9fa506803fe4eb6422c6c8b1639f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_180
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 393
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db5703362814e94a8ad637bbc6e656d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_181
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 392
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa07cd124eb37c42a5a8298dc945a7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_182
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 399
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8b6cd41c627b3489941aef911619b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_183
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 392
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4f3117421833e4ab03a02b0bc990aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_184
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 420
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5bef469abaac224ca5353cd157ff2eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_185
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 277
+        width: 83
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33832484f49afbd4bbc04f867a611f70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_186
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 278
+        width: 121
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cdd232b02d9cc46afdb2c69ff465d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_187
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 279
+        width: 129
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5282ca6bd4a4e4c92669c452b768b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_188
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 248
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641a4c1928ee95f47b4408eef1e4d79e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_189
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 244
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37a78d2fee94940b620cca27ed3a40
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_190
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04462651b394a7d4ca3363abcd414a07
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_191
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 248
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef82af6ab623b140afad19654254952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_192
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 242
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42a385c5363e5348a6c02cfc795302a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_193
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 246
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9484fd87b2608cf4fabf341757f7fe03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_194
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 248
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587c0a70addb5c048aeccd6619a88a8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_195
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 244
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94763d77c9834cc449d37ebb63e93f32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_196
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 246
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcca1969f3d678846a53fe9c9e519afa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_197
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 246
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53507389e0dac7e4e949432e804d3f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_198
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 246
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a690ea041cc3fe6459a45dc2c84c7a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_199
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 247
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ca2b9f2f954474ab39a0117567964b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_200
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 245
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f3ecbd5693e5d42ba27e11a7589f33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_201
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 244
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fc154b44126444c94a733a208cd663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_202
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 235
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcfb046ef43dee5418f34bba76ff066f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_203
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 237
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae4585873338f6439b760a74f1dc2e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_204
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 240
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0d7b44fde71674d98874f224bcb598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_205
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 240
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e850e3b4c7cb4144a81730c87c8286ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_206
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 246
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95f6048ce47de84887e3ed764129677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_207
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 247
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b78607fa41bf94aab1b939a6320a08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_208
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 244
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f5d5bb53341074eb171319fcb3f27e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_209
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 191
+        width: 55
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc16e26a6d2a234b88fab2ac324f810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_210
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 191
+        width: 80
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1f13ebb24d7c24984215d535b9158b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_211
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 191
+        width: 80
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6ad605a07289e4686e8777ddba004c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_212
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 191
+        width: 89
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f402bb2dd564f4ca0c4d8ddccbede5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_213
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 204
+        width: 97
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e63ede4ef792f4ba1a2f903e5167a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_214
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 165
+        width: 38
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9976d92235a6ebf48bc812c45fc00fb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_215
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 161
+        width: 55
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62c7ea39d1de914f8ce0004944c75a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_216
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 157
+        width: 68
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9a5f1bbb826784682ce1dcc226b8e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_217
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 157
+        width: 77
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870fbb141e6fdb548914428609451e29
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_218
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 157
+        width: 85
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f980806d03a68124ca3ae3f36b714b5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_219
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 156
+        width: 90
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b74eb77734f472489e1f3d7f728f590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_220
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 51
+        width: 19
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d76b5a033837744ab9842aa3f27ac6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_221
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 87
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b2e6d86d1d6fb47bab8749e0caf4c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_222
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 79
+        width: 45
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3d56596f3abf7409fd501ad20d3376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_MagmaDragoon_223
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 77
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8999b20d730572d4dbcb6a2bf1fff83e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +4807,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

@@ -1,9 +1,118 @@
 fileFormatVersion: 2
 guid: aeac96271aeb25c4f9149719b7f6b9b8
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_FrostWalrus_0
+    21300002: x4_FrostWalrus_1
+    21300004: x4_FrostWalrus_2
+    21300006: x4_FrostWalrus_3
+    21300008: x4_FrostWalrus_4
+    21300010: x4_FrostWalrus_5
+    21300012: x4_FrostWalrus_6
+    21300014: x4_FrostWalrus_7
+    21300016: x4_FrostWalrus_8
+    21300018: x4_FrostWalrus_9
+    21300020: x4_FrostWalrus_10
+    21300022: x4_FrostWalrus_11
+    21300024: x4_FrostWalrus_12
+    21300026: x4_FrostWalrus_13
+    21300028: x4_FrostWalrus_14
+    21300030: x4_FrostWalrus_15
+    21300032: x4_FrostWalrus_16
+    21300034: x4_FrostWalrus_17
+    21300036: x4_FrostWalrus_18
+    21300038: x4_FrostWalrus_19
+    21300040: x4_FrostWalrus_20
+    21300042: x4_FrostWalrus_21
+    21300044: x4_FrostWalrus_22
+    21300046: x4_FrostWalrus_23
+    21300048: x4_FrostWalrus_24
+    21300050: x4_FrostWalrus_25
+    21300052: x4_FrostWalrus_26
+    21300054: x4_FrostWalrus_27
+    21300056: x4_FrostWalrus_28
+    21300058: x4_FrostWalrus_29
+    21300060: x4_FrostWalrus_30
+    21300062: x4_FrostWalrus_31
+    21300064: x4_FrostWalrus_32
+    21300066: x4_FrostWalrus_33
+    21300068: x4_FrostWalrus_34
+    21300070: x4_FrostWalrus_35
+    21300072: x4_FrostWalrus_36
+    21300074: x4_FrostWalrus_37
+    21300076: x4_FrostWalrus_38
+    21300078: x4_FrostWalrus_39
+    21300080: x4_FrostWalrus_40
+    21300082: x4_FrostWalrus_41
+    21300084: x4_FrostWalrus_42
+    21300086: x4_FrostWalrus_43
+    21300088: x4_FrostWalrus_44
+    21300090: x4_FrostWalrus_45
+    21300092: x4_FrostWalrus_46
+    21300094: x4_FrostWalrus_47
+    21300096: x4_FrostWalrus_48
+    21300098: x4_FrostWalrus_49
+    21300100: x4_FrostWalrus_50
+    21300102: x4_FrostWalrus_51
+    21300104: x4_FrostWalrus_52
+    21300106: x4_FrostWalrus_53
+    21300108: x4_FrostWalrus_54
+    21300110: x4_FrostWalrus_55
+    21300112: x4_FrostWalrus_56
+    21300114: x4_FrostWalrus_57
+    21300116: x4_FrostWalrus_58
+    21300118: x4_FrostWalrus_59
+    21300120: x4_FrostWalrus_60
+    21300122: x4_FrostWalrus_61
+    21300124: x4_FrostWalrus_62
+    21300126: x4_FrostWalrus_63
+    21300128: x4_FrostWalrus_64
+    21300130: x4_FrostWalrus_65
+    21300132: x4_FrostWalrus_66
+    21300134: x4_FrostWalrus_67
+    21300136: x4_FrostWalrus_68
+    21300138: x4_FrostWalrus_69
+    21300140: x4_FrostWalrus_70
+    21300142: x4_FrostWalrus_71
+    21300144: x4_FrostWalrus_72
+    21300146: x4_FrostWalrus_73
+    21300148: x4_FrostWalrus_74
+    21300150: x4_FrostWalrus_75
+    21300152: x4_FrostWalrus_76
+    21300154: x4_FrostWalrus_77
+    21300156: x4_FrostWalrus_78
+    21300158: x4_FrostWalrus_79
+    21300160: x4_FrostWalrus_80
+    21300162: x4_FrostWalrus_81
+    21300164: x4_FrostWalrus_82
+    21300166: x4_FrostWalrus_83
+    21300168: x4_FrostWalrus_84
+    21300170: x4_FrostWalrus_85
+    21300172: x4_FrostWalrus_86
+    21300174: x4_FrostWalrus_87
+    21300176: x4_FrostWalrus_88
+    21300178: x4_FrostWalrus_89
+    21300180: x4_FrostWalrus_90
+    21300182: x4_FrostWalrus_91
+    21300184: x4_FrostWalrus_92
+    21300186: x4_FrostWalrus_93
+    21300188: x4_FrostWalrus_94
+    21300190: x4_FrostWalrus_95
+    21300192: x4_FrostWalrus_96
+    21300194: x4_FrostWalrus_97
+    21300196: x4_FrostWalrus_98
+    21300198: x4_FrostWalrus_99
+    21300200: x4_FrostWalrus_100
+    21300202: x4_FrostWalrus_101
+    21300204: x4_FrostWalrus_102
+    21300206: x4_FrostWalrus_103
+    21300208: x4_FrostWalrus_104
+    21300210: x4_FrostWalrus_105
+    21300212: x4_FrostWalrus_106
+    21300214: x4_FrostWalrus_107
+    21300216: x4_FrostWalrus_108
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +130,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +142,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +178,2211 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_FrostWalrus_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 987
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3615918b544c897468334462916ba83d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 987
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1e7e4596c485e4d805d871fd7bb061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 988
+        width: 87
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da745da2e844fc4b800cb0b27bdbafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_3
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 987
+        width: 86
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a79e0bfe30f1f14c9314ed11cf50443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_4
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 988
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1196d96e1c4034bbdce7769ce384f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_5
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 987
+        width: 86
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859d530ff7e89714eb37eecd6de9c488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_6
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 988
+        width: 86
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e211e6cc1a1e74591b63615fa5adcb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_7
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 987
+        width: 86
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400054a5e9f757f47bbbb140da687b87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 946
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1069173cb59173d458e8a8018bdcf99c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_9
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 948
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9767371ea5ad449a8e7f9efc72d981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_10
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 947
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15002c2cb8aa39f43a0d7652418b0fa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 946
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f6ed8c072315b4095346ee26fd15bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 947
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324af156228b86949890f785d23b2925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_13
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 945
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cecbd8ac679ee41a444b50482f4be3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_14
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 947
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636da9b515ca0b84bb06d2e2b44fc537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 945
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5876a612ca44d439eb9914c7040158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 945
+        width: 43
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b9949504c170544860ec3b0e6a3dc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 947
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4280d58e3772cc469ee32c78f76e2f2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 924
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196c0c1ac7a1cc9489efcabbbac792ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_19
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 923
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ed838ad4bb09e46859747a15c73362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 923
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7aa4e6cc13eda488c9938ccc00ee8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_21
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 924
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44154c9a4a10a64980331489a5b85a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_22
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 863
+        width: 76
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f281c9e57ea44d64db8c19c220b02757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 865
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e94a31606e968458771d25a7b1a108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 865
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b63b15f82326bb4180b827a678bc2b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 864
+        width: 99
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0361e12b5226e41b9892d5bc5f4dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_26
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 859
+        width: 55
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95f9f841dfabab42bf7141053bd5870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_27
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 866
+        width: 88
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c54dcedb4e91984185fe992c089d3b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_28
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 862
+        width: 79
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952992a69055c6c48a537cafc05f4567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 865
+        width: 83
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df94bdd76cd8834fb768eec5e0b8c09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_30
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 863
+        width: 80
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9e81913970b9714d8a7f509a8596c87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 824
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58c9f5d8a61704e80eab8565f11c30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_32
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 825
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357a04f2d356e4c44ad5ddcaae9a9dfe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_33
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 825
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99d744740fe82f43ad82030254be445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_34
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 827
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be60b0cf549a8a4b8ca1895e5f69571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_35
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 766
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e7c998e2598b1f46947510d88a16faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_36
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 766
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c4f705fdc668f942bb69d4a445e7c16
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 764
+        width: 56
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dea3c14956f39449987705827d0c11c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_38
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 767
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c915c8394a30b84a95232b0f7acbdf4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 767
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d5c2e187c81b41b3eccf9c94447c4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_40
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 761
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66a6e82af7b01e4ea9c8966b06ad033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_41
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 769
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c7cfd1ed7d22d4496291664ae073a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_42
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 767
+        width: 55
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01da9689c8da4694eab5d2d0b82a33ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_43
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 708
+        width: 118
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c59cd2690261b4abd495b779ec8852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_44
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 708
+        width: 119
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef6b9a1f71219f498b0a89f8a70f9b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_45
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 708
+        width: 117
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c462403f0bb6392489bc1cb73fc25279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_46
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 639
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be65530124b2344886a5117ae638e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_47
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 640
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d90baf7e5c26041958711dd3ed836e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_48
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 639
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de6949fe9e777e448884b13b7df6e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 637
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e14fffa602b9d4a89b6e00c5a03535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_50
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 638
+        width: 26
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461edfcc5bacb2459bb49c91df16f09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 638
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c4c0979d766474e901e666a7727ac0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_52
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 638
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d616c8cbe518a3b4bbcb12a7c1e11dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_53
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 637
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b9c211dfe98fa4faed29925519b291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 637
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed979f67271ea544a9bf2578ffc0667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_55
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 638
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b695a60193c263f4aab7929d80e7341b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_56
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 640
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8759b56aa1c43fc4b80b7f15f5af0037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_57
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 639
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8968b8367b0d4a41af60d4a8cf08dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_58
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 639
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca78be99c7dedb14788c1d36d8a7959f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_59
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 638
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb001d73f75104d4cbe49a8474d54fae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_60
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 638
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cb3708b45934149afcc5276ffc5983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 639
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef722b079a6d80a42b763dd6f9b2de5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_62
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 639
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea58f73dd1de35b418e8999218db0d64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_63
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 637
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9944d9a33a93c394d883b87b450447c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_64
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 580
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb68dc71df6362245a36befa1103b452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_65
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 585
+        width: 32
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1414fe6f7f6be7f468aa78fb4e6711eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_66
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 580
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be80f2db45a0e2498318bb175ad85fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 581
+        width: 20
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c607d11df3754887afb54822996cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_68
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 614
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a02a14fb4231048a89ed7dca6ecb35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_69
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 597
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d1214498f47b348beaa213a3490d77
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_70
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 583
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8fdf595a8221640a1d8e330e5222be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_71
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 475
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e3cd51628c8654886aa9898e586d4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_72
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 451
+        width: 93
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d2cd091a08296479f4d465931f2c04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_73
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 449
+        width: 114
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be18b75af3979f41b9206bc4b1f149f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_74
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 489
+        width: 33
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852e1fbb024fc274ba8865207ce5d995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_75
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 506
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f1c9970ab41714ba9b049894457c27
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_76
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 466
+        width: 59
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a83ce9111458224e88e5538d69d76cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_77
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 409
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bf0af86f2216e4fa90093d26d4e4e4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_78
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 413
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2013cab0452c46a744df3133edfeb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_79
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 409
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786dc1bc337fcad489085165e181aa46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 411
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083fc4109a21c1d459dc799e4243c835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_81
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 399
+        width: 49
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46cd26eb5fd26d47a6df79026222ea5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 357
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6515a1db57c4c4d9c690149bd55e3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_83
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 354
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82575fdfc7ebf2e43b738a29a36166e9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_84
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d161a737cf8b1484aacf073413aa827f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_85
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 344
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad85ccb2e4e70543b428392c6633ca0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_86
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 340
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465a27fec11f82e408c078335c765bdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_87
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 338
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c83ceafbfc75c59408d60360b30295af
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_88
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a348788ce2ab2ce4f938d267c403c818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_89
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 338
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe9a6901da7cbb42b566dce6ae1ea7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_90
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 337
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4dd10287090e694db3eea5e76c8e7f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_91
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 334
+        width: 60
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e074feae5f79783429ccb56ecce88dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_92
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 284
+        width: 28
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20fd4a5c0140bd4498b88afab420174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_93
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 281
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a699bf9f0887e1144a5af9d999d188ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_94
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 281
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e953f75a04ab14396b01b40faa8e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_95
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 280
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309a793c59e46149801fa692f9016a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_96
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 279
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1413a406ff27bb44961e0721e80a101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_97
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 280
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907fa9856af7d5d4a9c560c11c07111d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_98
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 279
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d835a14fe8b114599d26ac51f04bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_99
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 279
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e838913ac774e4f938fbaaccd1a1de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_100
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 223
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94671615d1722a1488577cd7be6e5dd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_101
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 222
+        width: 34
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2c712f4f6b75a488281aaa8f83d5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_102
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 222
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1b4f7df314504f93e5d8358499ee1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_103
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 223
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0776db6577e5438bd07574cc06097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_104
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 223
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27302d16de670841840a9b9c1583a20
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_105
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 223
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce25d108b02a5fe47b95eb304353bb1d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_106
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 223
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef06b6044282041a58724524f64f6b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_107
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 98
+        width: 187
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2802330abf4ba4c894993e11f74a4a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_FrostWalrus_108
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 16
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab58f5ff16d5f374794713d24f1c84f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +2392,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
