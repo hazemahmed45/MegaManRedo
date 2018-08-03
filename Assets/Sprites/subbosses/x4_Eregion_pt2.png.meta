@@ -1,9 +1,117 @@
 fileFormatVersion: 2
 guid: 05a83f7eaea65024b9cfc7589eb8e6f2
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: x4_Eregion_pt2_0
+    21300002: x4_Eregion_pt2_1
+    21300004: x4_Eregion_pt2_2
+    21300006: x4_Eregion_pt2_3
+    21300008: x4_Eregion_pt2_4
+    21300010: x4_Eregion_pt2_5
+    21300012: x4_Eregion_pt2_6
+    21300014: x4_Eregion_pt2_7
+    21300016: x4_Eregion_pt2_8
+    21300018: x4_Eregion_pt2_9
+    21300020: x4_Eregion_pt2_10
+    21300022: x4_Eregion_pt2_11
+    21300024: x4_Eregion_pt2_12
+    21300026: x4_Eregion_pt2_13
+    21300028: x4_Eregion_pt2_14
+    21300030: x4_Eregion_pt2_15
+    21300032: x4_Eregion_pt2_16
+    21300034: x4_Eregion_pt2_17
+    21300036: x4_Eregion_pt2_18
+    21300038: x4_Eregion_pt2_19
+    21300040: x4_Eregion_pt2_20
+    21300042: x4_Eregion_pt2_21
+    21300044: x4_Eregion_pt2_22
+    21300046: x4_Eregion_pt2_23
+    21300048: x4_Eregion_pt2_24
+    21300050: x4_Eregion_pt2_25
+    21300052: x4_Eregion_pt2_26
+    21300054: x4_Eregion_pt2_27
+    21300056: x4_Eregion_pt2_28
+    21300058: x4_Eregion_pt2_29
+    21300060: x4_Eregion_pt2_30
+    21300062: x4_Eregion_pt2_31
+    21300064: x4_Eregion_pt2_32
+    21300066: x4_Eregion_pt2_33
+    21300068: x4_Eregion_pt2_34
+    21300070: x4_Eregion_pt2_35
+    21300072: x4_Eregion_pt2_36
+    21300074: x4_Eregion_pt2_37
+    21300076: x4_Eregion_pt2_38
+    21300078: x4_Eregion_pt2_39
+    21300080: x4_Eregion_pt2_40
+    21300082: x4_Eregion_pt2_41
+    21300084: x4_Eregion_pt2_42
+    21300086: x4_Eregion_pt2_43
+    21300088: x4_Eregion_pt2_44
+    21300090: x4_Eregion_pt2_45
+    21300092: x4_Eregion_pt2_46
+    21300094: x4_Eregion_pt2_47
+    21300096: x4_Eregion_pt2_48
+    21300098: x4_Eregion_pt2_49
+    21300100: x4_Eregion_pt2_50
+    21300102: x4_Eregion_pt2_51
+    21300104: x4_Eregion_pt2_52
+    21300106: x4_Eregion_pt2_53
+    21300108: x4_Eregion_pt2_54
+    21300110: x4_Eregion_pt2_55
+    21300112: x4_Eregion_pt2_56
+    21300114: x4_Eregion_pt2_57
+    21300116: x4_Eregion_pt2_58
+    21300118: x4_Eregion_pt2_59
+    21300120: x4_Eregion_pt2_60
+    21300122: x4_Eregion_pt2_61
+    21300124: x4_Eregion_pt2_62
+    21300126: x4_Eregion_pt2_63
+    21300128: x4_Eregion_pt2_64
+    21300130: x4_Eregion_pt2_65
+    21300132: x4_Eregion_pt2_66
+    21300134: x4_Eregion_pt2_67
+    21300136: x4_Eregion_pt2_68
+    21300138: x4_Eregion_pt2_69
+    21300140: x4_Eregion_pt2_70
+    21300142: x4_Eregion_pt2_71
+    21300144: x4_Eregion_pt2_72
+    21300146: x4_Eregion_pt2_73
+    21300148: x4_Eregion_pt2_74
+    21300150: x4_Eregion_pt2_75
+    21300152: x4_Eregion_pt2_76
+    21300154: x4_Eregion_pt2_77
+    21300156: x4_Eregion_pt2_78
+    21300158: x4_Eregion_pt2_79
+    21300160: x4_Eregion_pt2_80
+    21300162: x4_Eregion_pt2_81
+    21300164: x4_Eregion_pt2_82
+    21300166: x4_Eregion_pt2_83
+    21300168: x4_Eregion_pt2_84
+    21300170: x4_Eregion_pt2_85
+    21300172: x4_Eregion_pt2_86
+    21300174: x4_Eregion_pt2_87
+    21300176: x4_Eregion_pt2_88
+    21300178: x4_Eregion_pt2_89
+    21300180: x4_Eregion_pt2_90
+    21300182: x4_Eregion_pt2_91
+    21300184: x4_Eregion_pt2_92
+    21300186: x4_Eregion_pt2_93
+    21300188: x4_Eregion_pt2_94
+    21300190: x4_Eregion_pt2_95
+    21300192: x4_Eregion_pt2_96
+    21300194: x4_Eregion_pt2_97
+    21300196: x4_Eregion_pt2_98
+    21300198: x4_Eregion_pt2_99
+    21300200: x4_Eregion_pt2_100
+    21300202: x4_Eregion_pt2_101
+    21300204: x4_Eregion_pt2_102
+    21300206: x4_Eregion_pt2_103
+    21300208: x4_Eregion_pt2_104
+    21300210: x4_Eregion_pt2_105
+    21300212: x4_Eregion_pt2_106
+    21300214: x4_Eregion_pt2_107
   externalObjects: {}
-  serializedVersion: 5
+  serializedVersion: 7
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -21,6 +129,8 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,14 +141,14 @@ TextureImporter:
     serializedVersion: 2
     filterMode: -1
     aniso: -1
-    mipBias: -1
+    mipBias: -100
     wrapU: 1
     wrapV: 1
     wrapW: 1
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -67,9 +177,2191 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_0
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1560
+        width: 66
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59477a0e47581be418eb8920e4b66dc1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1556
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d183cc2a68c01ab44a3d3294249543ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_2
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1555
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d82daf8b0954d645bafba73d465a4b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1554
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf65381b43fabf40be366dc5658e6ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_4
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1562
+        width: 62
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376740f637aa58a4ea184e7ff1643c52
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_5
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 1555
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b39738b8085eb24d930264ef86a4e90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_6
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1473
+        width: 81
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ced9ebb8f927c746b11f0067c6b6f7b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1474
+        width: 83
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9325889281d67fd4b997f612297ca6ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_8
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1471
+        width: 81
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358480dd0b59b324ba5a30cc809d6ab0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_9
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1488
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b0f5828118e0e4e8808f51269f2193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1488
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4688c43389dda8d4f8eefd5906e056e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_11
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1487
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ba3646a6ae01f41b13f6b8dc860b58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_12
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1497
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1efe5533c0faa04c996c1be26d71115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_13
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1500
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ac938785f3d8c408c2a627f0d4e512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_14
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1500
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a9345431b8b28489b6edbd633fad97
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_15
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1497
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4a6d8e7a8a7a042a5d5338d7885a9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_16
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 1500
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127ebd56f0f93ea40a3ac9043f6eb2d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1491
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58315733c430a3849ac8e11a80202730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_18
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1360
+        width: 213
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeebcc38aa3f4664ba01fca9ca355205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_19
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1362
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4f9143dd88ca04b8a4c7edaefbaf42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_20
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1355
+        width: 224
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07a33945e9667246b7873822391dcde
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_21
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1331
+        width: 160
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879a04cf178ab8143ac427c751d1b8ea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1239
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac68ccdf4538e394181e69a4a9e0ec49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_23
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1234
+        width: 52
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daeedbaa11cfdc645ac59711defed06d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1240
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5e020f5f85119418b1f45e344f7f3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_25
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1249
+        width: 54
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4abc90ba33155f4180a7210601a2f12
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1249
+        width: 48
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbde6b84e009c94e9dcf873bcf2ba36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_27
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1256
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b0bc4fe25e304c8bb75bcf21158d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_28
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1256
+        width: 40
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c491884f2f2eb8478026a271a87ba22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_29
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1240
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129428627044354482826eb184b1cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_30
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1249
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f96a1c39b278d24c98b227eddbfdb87
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_31
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 1241
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7afd4808a7986439d0cf17387c72fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_32
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1247
+        width: 43
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a302e9f2acca9459a1ee6a890db28b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_33
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1249
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ce0b433ed28a4b8135727f6fbe071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_34
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 1249
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7944b1be0a9c9454f8244dfcdd9f9468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_35
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 1253
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca7a30e418555848931faab34de5343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_36
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 1255
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4f5d7a5942bf74d8bcabf2feab5047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_37
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1258
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09567177ddd5cf74b87be539a5e21200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1256
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8f0a5978ac83942b093352e65d3f7a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1257
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebeb81f881465f4cb96b9d520fc9ba2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_40
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 1269
+        width: 15
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0191da0b64135447ac37fa68ffac293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_41
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1176
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd595f89f839bdb478c2216aa408c03f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_42
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1176
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a400785ff250b4d93ea58a033224c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1176
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976cbc1ab2a6b984b98df2010e42a17a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_44
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1176
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c00705a0de786439192b82c850dffb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_45
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1175
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 749a46e0d8f5f7e469b7abc1b77ec56b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_46
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1176
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab075fa797476464daada738ecf678ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1096
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92520a72313c5e6469ec3ad7802ab558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1099
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d2592f92196dc4884f2a7a05a8bc00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_49
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1090
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be88d7caa9c2be44c95eaf964944d53e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_50
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1080
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a400bed4b2c664db315005af6a0015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_51
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1080
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c358153f5ee06459725f9efe2001f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_52
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1043
+        width: 65
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638c21c66104d1a4f9807c8fbc4fef67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 913
+        width: 91
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1aaee37b441cd47ad07874f9833e41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_54
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 908
+        width: 235
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3ffa81032988e489c35729d43123d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_55
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 941
+        width: 134
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b2b01d0017ecf4aa0477ddb5d25053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_56
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 942
+        width: 134
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc4bc2c7604ae4c9dd955ea08e9a89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_57
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 819
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0930e940ff6ff54aaccf360bf721102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_58
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 814
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cda70f37abc7f4daa8a36c02d5f0a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 822
+        width: 70
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92c9d49a69dc3d4a879d00561d206ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_60
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 831
+        width: 77
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d25b7a52898be548908eac55b88ed6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_61
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 816
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae59e9db664dd234db62d379474ba95b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_62
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 817
+        width: 85
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd748547963d83f4283b7bcef45919b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_63
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 811
+        width: 60
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa472081bb8f8c4eb79824c20b16a74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_64
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 832
+        width: 73
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ba8234ee9acaa479577e2c7fa87ac2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_65
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 849
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cf3abfd2f25d941a2a2a9517ff0a6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_66
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 841
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aaf82dabb21fef4eb4e77782fdd0d5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_67
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 876
+        width: 39
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261cc25bff3d404e8e762859cc61bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_68
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 825
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad98ba9ba026ca4e9a0a563a03ea554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_69
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 725
+        width: 83
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77c2fc90c6f247048a9d5d889b76219e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 724
+        width: 74
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2ea3f9ead086a4b8c15951b1f51bed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_71
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 733
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b15e3d409024d646804f00ceab31181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_72
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 727
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa28bfb49e16494693a9fb68622e1cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_73
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 720
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8372b6f7d6942894dad4459480528308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_74
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 724
+        width: 68
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda8e253617d8614398d4a368c17f4d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_75
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 720
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8acdb418988d054f9023feb27facb93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_76
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 741
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a89d9718a76346bedfb651a476060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_77
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 750
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090c5f54e755690469ad66cf20981016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_78
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 744
+        width: 45
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1233b492f69f844928279c06863dd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_79
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 734
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74af7fb7995a490478c9fa940853c39b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 744
+        width: 47
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87db0307ce5b71146b20c37cf63b9caa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_81
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 567
+        width: 95
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea290666efefea4a88616788df324c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_82
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 565
+        width: 63
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5537f458f0286184aa2f982f9f6c45c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_83
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 563
+        width: 109
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e52d4099950f48913f7f3d0fd282a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_84
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 562
+        width: 103
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41aaa5f99e554c4e84490bbe3330375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_85
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 560
+        width: 72
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82358d6322433e244a966a1b26135708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_86
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 403
+        width: 91
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2daa9a026edd44eaddc165cf2df492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_87
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 403
+        width: 130
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdfa6df50180ab4fafc69b7b65b94b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_88
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 402
+        width: 174
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bbeccf2c56f5042b81594c21ed321c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_89
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 400
+        width: 93
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7813cdf46235c0d47af9bd88139e632a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_90
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 405
+        width: 137
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725a5e6041a26c041897bb3bdb48a697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_91
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 337
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7447ae93856499e44b4b8c565ac8e271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 336
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be4427f4b589248a88044858046ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_93
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 337
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e341149accd549915aea8134735c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 345
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41a3d58e773cb54fac7723a026b711a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_95
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 344
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80b9b2f1eb4e1440846a5ccbc8a130a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_96
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 340
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7509c9214031ccb45b4bc451acca16d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_97
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 337
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c856c8c7a9755084fb6aacb5a26bcd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_98
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 335
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1187a579edbdd6d4e862df9021195b82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_99
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 337
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab0d4d270d1a9d48b3fa8a948752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_100
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 335
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce1513f35d50eb4ba2d7c730879903c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_101
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 334
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37f60ac1f7699b44b04a6c827d3a73e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_102
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 337
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d745298869d19ca4cbc33507b3fad7ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_103
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 335
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3f86c19bb93e4faca9dccee37a542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_104
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 319
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341dcc3b05788db4aa3c47d936ff0b7f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_105
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 318
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db59295654acb754998400c6040b22c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_106
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 315
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47581baebfb3c424bba78a97c489ec88
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: x4_Eregion_pt2_107
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 22
+        width: 301
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bceb0e82e5bfc24faa5e936826a7e74
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -79,6 +2371,8 @@ TextureImporter:
     edges: []
     weights: []
   spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
